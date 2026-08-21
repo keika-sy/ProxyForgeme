@@ -73,20 +73,38 @@ DASHBOARD_HTML = """<!DOCTYPE html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#0d1117">
 <title>ProxyForge Dashboard</title>
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
 <style>
 :root { color-scheme: dark; }
-body { font-family: system-ui, sans-serif; background: #0d1117; color: #e6edf3; margin: 0; padding: 2rem; }
-h1 { font-size: 1.5rem; } .muted { color: #8b949e; font-size: .85rem; }
-.cards { display: flex; gap: 1rem; flex-wrap: wrap; margin: 1rem 0 2rem; }
-.card { background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 1rem 1.5rem; min-width: 120px; }
-.card b { display: block; font-size: 1.6rem; }
-.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 2rem; margin-bottom: 2rem; }
-.panel { background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 1rem; }
-table { width: 100%; border-collapse: collapse; font-size: .9rem; }
-th, td { text-align: left; padding: .4rem .6rem; border-bottom: 1px solid #21262d; }
-th { color: #8b949e; font-weight: 600; }
+* { box-sizing: border-box; }
+body { font-family: system-ui, sans-serif; background: #0d1117; color: #e6edf3; margin: 0; padding: 2rem; max-width: 1100px; margin-inline: auto; }
+h1 { font-size: 1.5rem; margin: 0 0 .25rem; } .muted { color: #8b949e; font-size: .85rem; }
+.cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: .75rem; margin: 1.25rem 0 1.5rem; }
+.card { background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: .9rem 1.1rem; }
+.card b { display: block; font-size: 1.7rem; line-height: 1.2; margin-top: .15rem; }
+.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 300px), 1fr)); gap: 1.25rem; margin-bottom: 1.5rem; }
+.panel { background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 1rem; min-width: 0; }
+.panel h2 { font-size: 1.05rem; margin: 0 0 .75rem; }
+.chart-box { position: relative; height: 240px; }
+.table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; margin: 0 -.25rem; padding: 0 .25rem; }
+table { width: 100%; border-collapse: collapse; font-size: .88rem; }
+th, td { text-align: left; padding: .45rem .55rem; border-bottom: 1px solid #21262d; white-space: nowrap; }
+th { color: #8b949e; font-weight: 600; position: sticky; top: 0; background: #161b22; }
+td.addr { font-family: ui-monospace, monospace; font-size: .82rem; }
+.badge { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .72rem; text-transform: uppercase; letter-spacing: .03em; }
+.badge.elite { background: #1a3520; color: #56d364; } .badge.anonymous { background: #27304a; color: #7ee787; } .badge.transparent { background: #4a2b11; color: #f0883e; }
+footer { margin-top: 2rem; text-align: center; }
+@media (max-width: 640px) {
+  body { padding: 1rem; }
+  h1 { font-size: 1.25rem; }
+  .cards { grid-template-columns: repeat(2, 1fr); gap: .6rem; }
+  .card { padding: .7rem .9rem; } .card b { font-size: 1.4rem; }
+  .grid { grid-template-columns: 1fr; gap: 1rem; }
+  .chart-box { height: 200px; }
+  th, td { padding: .4rem .45rem; font-size: .82rem; }
+}
 </style>
 </head>
 <body>
@@ -94,15 +112,18 @@ th { color: #8b949e; font-weight: 600; }
 <p class="muted">Last updated: <span id="generated"></span></p>
 <div class="cards" id="cards"></div>
 <div class="grid">
-  <div class="panel"><canvas id="protocolChart"></canvas></div>
-  <div class="panel"><canvas id="countryChart"></canvas></div>
-  <div class="panel"><canvas id="latencyChart"></canvas></div>
+  <div class="panel"><h2>Protocols</h2><div class="chart-box"><canvas id="protocolChart"></canvas></div></div>
+  <div class="panel"><h2>Countries</h2><div class="chart-box"><canvas id="countryChart"></canvas></div></div>
+  <div class="panel"><h2>Latency (ms)</h2><div class="chart-box"><canvas id="latencyChart"></canvas></div></div>
 </div>
 <div class="panel">
-  <h2 style="font-size:1.1rem">Top 20</h2>
+  <h2>Top 20</h2>
+  <div class="table-wrap">
   <table><thead><tr><th>Address</th><th>Protocol</th><th>Country</th><th>Anonymity</th><th>Latency</th><th>Score</th></tr></thead>
   <tbody id="top"></tbody></table>
+  </div>
 </div>
+<footer class="muted">Auto-updated by GitHub Actions every 2 hours</footer>
 <script src="data.js"></script>
 <script>
 const d = window.PROXYFORGE_DATA;
@@ -110,17 +131,19 @@ document.getElementById('generated').textContent = d.generated || 'n/a';
 const cards = [['All', d.totals.all], ['HTTP', d.totals.http], ['SOCKS4', d.totals.socks4], ['SOCKS5', d.totals.socks5]];
 document.getElementById('cards').innerHTML =
   cards.map(([k, v]) => `<div class="card">${k}<b>${v}</b></div>`).join('');
+const gridColor = '#21262d';
+const baseOpts = { responsive: true, maintainAspectRatio: false,
+  plugins: { legend: { display: false } },
+  scales: { x: { grid: { color: gridColor }, ticks: { maxRotation: 0, autoSkipPadding: 8 } }, y: { grid: { color: gridColor }, beginAtZero: true } } };
 new Chart(protocolChart, { type: 'bar', data: { labels: ['HTTP', 'SOCKS4', 'SOCKS5'],
-  datasets: [{ data: [d.totals.http, d.totals.socks4, d.totals.socks5], backgroundColor: '#58a6ff' }] },
-  options: { plugins: { legend: { display: false } }, scales: { x: { grid: { color: '#21262d' } }, y: { grid: { color: '#21262d' } } } } });
+  datasets: [{ data: [d.totals.http, d.totals.socks4, d.totals.socks5], backgroundColor: '#58a6ff', borderRadius: 4 }] }, options: baseOpts });
 new Chart(countryChart, { type: 'bar', data: { labels: d.countries.map(c => c.cc),
-  datasets: [{ data: d.countries.map(c => c.count), backgroundColor: '#3fb950' }] },
-  options: { plugins: { legend: { display: false } }, scales: { x: { grid: { color: '#21262d' } }, y: { grid: { color: '#21262d' } } } } });
+  datasets: [{ data: d.countries.map(c => c.count), backgroundColor: '#3fb950', borderRadius: 4 }] },
+  options: { ...baseOpts, scales: { ...baseOpts.scales, x: { ...baseOpts.scales.x, ticks: { maxRotation: 0, autoSkip: true } } } } });
 new Chart(latencyChart, { type: 'bar', data: { labels: d.latency_hist.bins,
-  datasets: [{ data: d.latency_hist.counts, backgroundColor: '#d29922' }] },
-  options: { plugins: { legend: { display: false } }, scales: { x: { grid: { color: '#21262d' } }, y: { grid: { color: '#21262d' } } } } });
+  datasets: [{ data: d.latency_hist.counts, backgroundColor: '#d29922', borderRadius: 4 }] }, options: baseOpts });
 document.getElementById('top').innerHTML = d.top20.map(p =>
-  `<tr><td>${p.ip}:${p.port}</td><td>${p.protocol}</td><td>${p.country || '?'}</td><td>${p.anonymity || '?'}</td><td>${p.latency_ms ?? '?'} ms</td><td>${p.score}</td></tr>`).join('');
+  `<tr><td class="addr">${p.ip}:${p.port}</td><td>${p.protocol}</td><td>${p.country || '?'}</td><td><span class="badge ${p.anonymity || ''}">${p.anonymity || '?'}</span></td><td>${p.latency_ms ?? '?'} ms</td><td>${p.score}</td></tr>`).join('');
 </script>
 </body>
 </html>
