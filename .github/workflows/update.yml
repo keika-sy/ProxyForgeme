@@ -1,0 +1,48 @@
+name: update
+
+on:
+  schedule:
+    - cron: "0 */2 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: proxyforge-update
+  cancel-in-progress: true
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -e ".[dev]"
+      - run: pytest -q
+
+  update:
+    needs: test
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -e .
+      - name: Run pipeline
+        run: python -m proxyforge run
+      - name: Commit results
+        run: |
+          git config user.name "proxyforge-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add results data docs README.md
+          git diff --cached --quiet || git commit -m "update proxy lists $(date -u +%FT%TZ)"
+      - name: Push (rebase retry)
+        run: |
+          for i in 1 2; do
+            git pull --rebase origin "${GITHUB_REF_NAME}" && git push origin HEAD:"${GITHUB_REF_NAME}" && exit 0
+            sleep 5
+          done
+          exit 1
