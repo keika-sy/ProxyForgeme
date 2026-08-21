@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ProxyForge Dashboard</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
+<style>
+:root { color-scheme: dark; }
+body { font-family: system-ui, sans-serif; background: #0d1117; color: #e6edf3; margin: 0; padding: 2rem; }
+h1 { font-size: 1.5rem; } .muted { color: #8b949e; font-size: .85rem; }
+.cards { display: flex; gap: 1rem; flex-wrap: wrap; margin: 1rem 0 2rem; }
+.card { background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 1rem 1.5rem; min-width: 120px; }
+.card b { display: block; font-size: 1.6rem; }
+.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 2rem; margin-bottom: 2rem; }
+.panel { background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 1rem; }
+table { width: 100%; border-collapse: collapse; font-size: .9rem; }
+th, td { text-align: left; padding: .4rem .6rem; border-bottom: 1px solid #21262d; }
+th { color: #8b949e; font-weight: 600; }
+</style>
+</head>
+<body>
+<h1>ProxyForge</h1>
+<p class="muted">Last updated: <span id="generated"></span></p>
+<div class="cards" id="cards"></div>
+<div class="grid">
+  <div class="panel"><canvas id="protocolChart"></canvas></div>
+  <div class="panel"><canvas id="countryChart"></canvas></div>
+  <div class="panel"><canvas id="latencyChart"></canvas></div>
+</div>
+<div class="panel">
+  <h2 style="font-size:1.1rem">Top 20</h2>
+  <table><thead><tr><th>Address</th><th>Protocol</th><th>Country</th><th>Anonymity</th><th>Latency</th><th>Score</th></tr></thead>
+  <tbody id="top"></tbody></table>
+</div>
+<script src="data.js"></script>
+<script>
+const d = window.PROXYFORGE_DATA;
+document.getElementById('generated').textContent = d.generated || 'n/a';
+const cards = [['All', d.totals.all], ['HTTP', d.totals.http], ['SOCKS4', d.totals.socks4], ['SOCKS5', d.totals.socks5]];
+document.getElementById('cards').innerHTML =
+  cards.map(([k, v]) => `<div class="card">${k}<b>${v}</b></div>`).join('');
+new Chart(protocolChart, { type: 'bar', data: { labels: ['HTTP', 'SOCKS4', 'SOCKS5'],
+  datasets: [{ data: [d.totals.http, d.totals.socks4, d.totals.socks5], backgroundColor: '#58a6ff' }] },
+  options: { plugins: { legend: { display: false } }, scales: { x: { grid: { color: '#21262d' } }, y: { grid: { color: '#21262d' } } } } });
+new Chart(countryChart, { type: 'bar', data: { labels: d.countries.map(c => c.cc),
+  datasets: [{ data: d.countries.map(c => c.count), backgroundColor: '#3fb950' }] },
+  options: { plugins: { legend: { display: false } }, scales: { x: { grid: { color: '#21262d' } }, y: { grid: { color: '#21262d' } } } } });
+new Chart(latencyChart, { type: 'bar', data: { labels: d.latency_hist.bins,
+  datasets: [{ data: d.latency_hist.counts, backgroundColor: '#d29922' }] },
+  options: { plugins: { legend: { display: false } }, scales: { x: { grid: { color: '#21262d' } }, y: { grid: { color: '#21262d' } } } } });
+document.getElementById('top').innerHTML = d.top20.map(p =>
+  `<tr><td>${p.ip}:${p.port}</td><td>${p.protocol}</td><td>${p.country || '?'}</td><td>${p.anonymity || '?'}</td><td>${p.latency_ms ?? '?'} ms</td><td>${p.score}</td></tr>`).join('');
+</script>
+</body>
+</html>
