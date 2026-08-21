@@ -1,2 +1,0 @@
-[console_scripts]
-proxyforge = proxyforge.cli:main
