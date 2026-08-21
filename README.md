@@ -101,5 +101,19 @@ Settings → Pages → Source: **Deploy from a branch** → Branch: `main`, fold
 ---
 
 <!-- PROXYFORGE:START -->
-Belum ada data. Jalankan pipeline untuk mengisi statistik.
+**274** proxy aktif | HTTP: **111** | SOCKS4: **115** | SOCKS5: **48**
+
+| Kategori | Link Raw |
+|---|---|
+| All | `results/all.txt` |
+| HTTP | `results/http.txt` |
+| SOCKS4 | `results/socks4.txt` |
+| SOCKS5 | `results/socks5.txt` |
+| Ranked Top 100 | `results/ranked/top100.txt` |
+| JSON | `results/all.json` |
+| CSV | `results/all.csv` |
+
+Top negara: US (129), ID (18), RU (16), CN (11), HK (9), DE (7), TR (7), SG (7), BD (6), IN (5)
+
+_Diupdate otomatis oleh GitHub Actions setiap 2 jam._
 <!-- PROXYFORGE:END -->
