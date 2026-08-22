@@ -1,47 +1,25 @@
 [
   {
-    "ip": "87.251.77.29",
-    "port": 3128,
-    "protocol": "http",
-    "country": "DE",
+    "ip": "72.195.34.42",
+    "port": 4145,
+    "protocol": "socks4",
+    "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 345,
-    "speed_kbps": 28.9,
+    "latency_ms": 482,
+    "speed_kbps": null,
     "score": 100.0,
-    "last_seen": "2026-08-22T08:24:59.637564+00:00"
+    "last_seen": "2026-08-22T10:19:18.970596+00:00"
   },
   {
     "ip": "204.76.203.9",
     "port": 8080,
     "protocol": "http",
     "country": "NL",
-    "anonymity": "anonymous",
-    "latency_ms": 364,
-    "speed_kbps": 27.5,
-    "score": 100.0,
-    "last_seen": "2026-08-22T08:24:59.649262+00:00"
-  },
-  {
-    "ip": "204.76.203.9",
-    "port": 3128,
-    "protocol": "http",
-    "country": "NL",
-    "anonymity": "anonymous",
-    "latency_ms": 372,
-    "speed_kbps": 26.8,
-    "score": 100.0,
-    "last_seen": "2026-08-22T08:24:59.658365+00:00"
-  },
-  {
-    "ip": "190.97.236.129",
-    "port": 999,
-    "protocol": "http",
-    "country": "VE",
     "anonymity": "elite",
-    "latency_ms": 626,
-    "speed_kbps": 15.9,
+    "latency_ms": 518,
+    "speed_kbps": 19.3,
     "score": 100.0,
-    "last_seen": "2026-08-22T08:24:59.652927+00:00"
+    "last_seen": "2026-08-22T10:19:18.963572+00:00"
   },
   {
     "ip": "181.78.74.252",
@@ -49,120 +27,10 @@
     "protocol": "http",
     "country": "CO",
     "anonymity": "anonymous",
-    "latency_ms": 635,
-    "speed_kbps": 15.7,
+    "latency_ms": 727,
+    "speed_kbps": 13.7,
     "score": 100.0,
-    "last_seen": "2026-08-22T08:24:59.652645+00:00"
-  },
-  {
-    "ip": "199.66.183.251",
-    "port": 4145,
-    "protocol": "socks4",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 647,
-    "speed_kbps": 15.5,
-    "score": 100.0,
-    "last_seen": "2026-08-22T08:24:59.643975+00:00"
-  },
-  {
-    "ip": "199.66.182.243",
-    "port": 4145,
-    "protocol": "socks4",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 647,
-    "speed_kbps": 15.4,
-    "score": 100.0,
-    "last_seen": "2026-08-22T08:24:59.646187+00:00"
-  },
-  {
-    "ip": "74.119.144.60",
-    "port": 4145,
-    "protocol": "socks4",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 649,
-    "speed_kbps": 15.4,
-    "score": 100.0,
-    "last_seen": "2026-08-22T08:24:59.639748+00:00"
-  },
-  {
-    "ip": "98.190.239.3",
-    "port": 4145,
-    "protocol": "socks4",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 650,
-    "speed_kbps": 15.4,
-    "score": 100.0,
-    "last_seen": "2026-08-22T08:24:59.641231+00:00"
-  },
-  {
-    "ip": "184.181.217.213",
-    "port": 4145,
-    "protocol": "socks4",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 651,
-    "speed_kbps": 15.4,
-    "score": 100.0,
-    "last_seen": "2026-08-22T08:24:59.641452+00:00"
-  },
-  {
-    "ip": "24.249.199.12",
-    "port": 4145,
-    "protocol": "socks4",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 654,
-    "speed_kbps": 15.3,
-    "score": 100.0,
-    "last_seen": "2026-08-22T08:24:59.648133+00:00"
-  },
-  {
-    "ip": "174.77.111.198",
-    "port": 49547,
-    "protocol": "socks4",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 655,
-    "speed_kbps": 15.2,
-    "score": 100.0,
-    "last_seen": "2026-08-22T08:24:59.644905+00:00"
-  },
-  {
-    "ip": "72.195.34.42",
-    "port": 4145,
-    "protocol": "socks4",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 658,
-    "speed_kbps": 15.2,
-    "score": 100.0,
-    "last_seen": "2026-08-22T08:24:59.639790+00:00"
-  },
-  {
-    "ip": "184.178.172.11",
-    "port": 4145,
-    "protocol": "socks4",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 658,
-    "speed_kbps": 15.2,
-    "score": 100.0,
-    "last_seen": "2026-08-22T08:24:59.644323+00:00"
-  },
-  {
-    "ip": "95.3.69.222",
-    "port": 8080,
-    "protocol": "http",
-    "country": "TR",
-    "anonymity": "anonymous",
-    "latency_ms": 667,
-    "speed_kbps": 15.0,
-    "score": 100.0,
-    "last_seen": "2026-08-22T08:24:59.650179+00:00"
+    "last_seen": "2026-08-22T10:19:18.960448+00:00"
   },
   {
     "ip": "184.178.172.3",
@@ -170,21 +38,21 @@
     "protocol": "socks4",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 669,
-    "speed_kbps": 14.9,
+    "latency_ms": 752,
+    "speed_kbps": 13.3,
     "score": 100.0,
-    "last_seen": "2026-08-22T08:24:59.647848+00:00"
+    "last_seen": "2026-08-22T10:19:18.972942+00:00"
   },
   {
-    "ip": "184.182.240.211",
+    "ip": "24.249.199.12",
     "port": 4145,
     "protocol": "socks4",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 679,
-    "speed_kbps": 14.7,
+    "latency_ms": 754,
+    "speed_kbps": 13.3,
     "score": 100.0,
-    "last_seen": "2026-08-22T08:24:59.647111+00:00"
+    "last_seen": "2026-08-22T10:19:18.969622+00:00"
   },
   {
     "ip": "98.181.137.80",
@@ -192,21 +60,10 @@
     "protocol": "socks4",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 695,
-    "speed_kbps": 14.4,
+    "latency_ms": 756,
+    "speed_kbps": 13.2,
     "score": 100.0,
-    "last_seen": "2026-08-22T08:24:59.639361+00:00"
-  },
-  {
-    "ip": "98.170.57.249",
-    "port": 4145,
-    "protocol": "socks4",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 712,
-    "speed_kbps": 14.0,
-    "score": 100.0,
-    "last_seen": "2026-08-22T08:24:59.640058+00:00"
+    "last_seen": "2026-08-22T10:19:18.974050+00:00"
   },
   {
     "ip": "181.78.74.253",
@@ -214,10 +71,21 @@
     "protocol": "http",
     "country": "CO",
     "anonymity": "anonymous",
-    "latency_ms": 715,
-    "speed_kbps": 14.0,
+    "latency_ms": 763,
+    "speed_kbps": 13.1,
     "score": 100.0,
-    "last_seen": "2026-08-22T08:24:59.653785+00:00"
+    "last_seen": "2026-08-22T10:19:18.957122+00:00"
+  },
+  {
+    "ip": "98.170.57.249",
+    "port": 4145,
+    "protocol": "socks4",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 765,
+    "speed_kbps": 13.1,
+    "score": 100.0,
+    "last_seen": "2026-08-22T10:19:18.970990+00:00"
   },
   {
     "ip": "174.77.111.197",
@@ -225,208 +93,32 @@
     "protocol": "socks4",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 718,
-    "speed_kbps": 13.9,
+    "latency_ms": 776,
+    "speed_kbps": 12.9,
     "score": 100.0,
-    "last_seen": "2026-08-22T08:24:59.639516+00:00"
+    "last_seen": "2026-08-22T10:19:18.974381+00:00"
   },
   {
-    "ip": "181.39.25.196",
-    "port": 8118,
-    "protocol": "http",
-    "country": "EC",
-    "anonymity": "anonymous",
-    "latency_ms": 732,
-    "speed_kbps": 13.7,
-    "score": 100.0,
-    "last_seen": "2026-08-22T08:24:59.657400+00:00"
-  },
-  {
-    "ip": "72.195.34.59",
-    "port": 4145,
-    "protocol": "socks4",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 761,
-    "speed_kbps": 13.1,
-    "score": 100.0,
-    "last_seen": "2026-08-22T08:24:59.642168+00:00"
-  },
-  {
-    "ip": "69.61.200.104",
-    "port": 36181,
-    "protocol": "socks4",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 857,
-    "speed_kbps": 11.7,
-    "score": 100.0,
-    "last_seen": "2026-08-22T08:24:59.643419+00:00"
-  },
-  {
-    "ip": "72.49.49.11",
-    "port": 31034,
-    "protocol": "socks4",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 892,
-    "speed_kbps": 11.2,
-    "score": 100.0,
-    "last_seen": "2026-08-22T08:24:59.642718+00:00"
-  },
-  {
-    "ip": "199.66.183.226",
-    "port": 4145,
-    "protocol": "socks4",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 917,
-    "speed_kbps": 10.9,
-    "score": 100.0,
-    "last_seen": "2026-08-22T08:24:59.642687+00:00"
-  },
-  {
-    "ip": "8.213.151.128",
-    "port": 3128,
-    "protocol": "http",
-    "country": "KR",
-    "anonymity": "anonymous",
-    "latency_ms": 996,
-    "speed_kbps": null,
-    "score": 100.0,
-    "last_seen": "2026-08-22T08:24:59.649435+00:00"
-  },
-  {
-    "ip": "216.68.128.121",
-    "port": 4145,
-    "protocol": "socks4",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 1150,
-    "speed_kbps": 8.7,
-    "score": 100.0,
-    "last_seen": "2026-08-22T08:24:59.641221+00:00"
-  },
-  {
-    "ip": "208.102.51.6",
-    "port": 58208,
-    "protocol": "socks4",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 1312,
-    "speed_kbps": 7.6,
-    "score": 100.0,
-    "last_seen": "2026-08-22T08:24:59.645162+00:00"
-  },
-  {
-    "ip": "153.72.68.0",
-    "port": 8080,
-    "protocol": "http",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 1330,
-    "speed_kbps": 0.1,
-    "score": 100.0,
-    "last_seen": "2026-08-22T08:24:59.650172+00:00"
-  },
-  {
-    "ip": "1.231.81.166",
-    "port": 3128,
-    "protocol": "http",
-    "country": "KR",
-    "anonymity": "elite",
-    "latency_ms": 1492,
-    "speed_kbps": 6.7,
-    "score": 100.0,
-    "last_seen": "2026-08-22T08:24:59.653145+00:00"
-  },
-  {
-    "ip": "190.97.236.128",
+    "ip": "190.97.236.129",
     "port": 999,
     "protocol": "http",
     "country": "VE",
-    "anonymity": "anonymous",
-    "latency_ms": 1678,
-    "speed_kbps": 6.0,
+    "anonymity": "elite",
+    "latency_ms": 786,
+    "speed_kbps": 12.7,
     "score": 100.0,
-    "last_seen": "2026-08-22T08:24:59.649083+00:00"
+    "last_seen": "2026-08-22T10:19:18.961072+00:00"
   },
   {
-    "ip": "66.42.224.229",
-    "port": 41679,
+    "ip": "184.178.172.11",
+    "port": 4145,
     "protocol": "socks4",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 1871,
-    "speed_kbps": 5.3,
+    "latency_ms": 787,
+    "speed_kbps": 12.7,
     "score": 100.0,
-    "last_seen": "2026-08-22T08:24:59.642772+00:00"
-  },
-  {
-    "ip": "112.74.101.87",
-    "port": 9999,
-    "protocol": "http",
-    "country": "CN",
-    "anonymity": "anonymous",
-    "latency_ms": 2025,
-    "speed_kbps": null,
-    "score": 100.0,
-    "last_seen": "2026-08-22T08:24:59.638004+00:00"
-  },
-  {
-    "ip": "184.185.2.12",
-    "port": 4145,
-    "protocol": "socks5",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 2038,
-    "speed_kbps": 4.9,
-    "score": 100.0,
-    "last_seen": "2026-08-22T08:24:59.634603+00:00"
-  },
-  {
-    "ip": "47.107.82.96",
-    "port": 30051,
-    "protocol": "http",
-    "country": "CN",
-    "anonymity": "anonymous",
-    "latency_ms": 2609,
-    "speed_kbps": 3.8,
-    "score": 100.0,
-    "last_seen": "2026-08-22T08:24:59.638007+00:00"
-  },
-  {
-    "ip": "45.43.63.37",
-    "port": 10808,
-    "protocol": "socks5",
-    "country": "SG",
-    "anonymity": "anonymous",
-    "latency_ms": 2790,
-    "speed_kbps": 3.6,
-    "score": 100.0,
-    "last_seen": "2026-08-22T08:24:59.632593+00:00"
-  },
-  {
-    "ip": "14.139.235.82",
-    "port": 3128,
-    "protocol": "http",
-    "country": "IN",
-    "anonymity": "anonymous",
-    "latency_ms": 3000,
-    "speed_kbps": 3.3,
-    "score": 100.0,
-    "last_seen": "2026-08-22T08:24:59.653376+00:00"
-  },
-  {
-    "ip": "103.177.118.145",
-    "port": 8118,
-    "protocol": "http",
-    "country": "BD",
-    "anonymity": "anonymous",
-    "latency_ms": 3375,
-    "speed_kbps": 3.0,
-    "score": 100.0,
-    "last_seen": "2026-08-22T08:24:59.637699+00:00"
+    "last_seen": "2026-08-22T10:19:18.971895+00:00"
   },
   {
     "ip": "72.195.34.60",
@@ -434,32 +126,307 @@
     "protocol": "socks4",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 3728,
-    "speed_kbps": 2.7,
+    "latency_ms": 809,
+    "speed_kbps": 12.3,
     "score": 100.0,
-    "last_seen": "2026-08-22T08:24:59.646414+00:00"
+    "last_seen": "2026-08-22T10:19:18.972952+00:00"
   },
   {
-    "ip": "98.191.0.47",
+    "ip": "72.195.34.59",
     "port": 4145,
     "protocol": "socks4",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 706,
-    "speed_kbps": 14.2,
-    "score": 96.7,
-    "last_seen": "2026-08-22T08:24:59.907128+00:00"
+    "latency_ms": 811,
+    "speed_kbps": 12.3,
+    "score": 100.0,
+    "last_seen": "2026-08-22T10:19:18.968043+00:00"
   },
   {
-    "ip": "98.170.57.241",
+    "ip": "199.66.183.251",
+    "port": 4145,
+    "protocol": "socks4",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 811,
+    "speed_kbps": 12.3,
+    "score": 100.0,
+    "last_seen": "2026-08-22T10:19:18.971101+00:00"
+  },
+  {
+    "ip": "199.66.183.226",
+    "port": 4145,
+    "protocol": "socks4",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 822,
+    "speed_kbps": 12.2,
+    "score": 100.0,
+    "last_seen": "2026-08-22T10:19:18.965917+00:00"
+  },
+  {
+    "ip": "199.66.182.243",
+    "port": 4145,
+    "protocol": "socks4",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 824,
+    "speed_kbps": 12.1,
+    "score": 100.0,
+    "last_seen": "2026-08-22T10:19:18.967675+00:00"
+  },
+  {
+    "ip": "98.190.239.3",
+    "port": 4145,
+    "protocol": "socks4",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 867,
+    "speed_kbps": 11.5,
+    "score": 100.0,
+    "last_seen": "2026-08-22T10:19:18.967669+00:00"
+  },
+  {
+    "ip": "181.39.25.196",
+    "port": 8118,
+    "protocol": "http",
+    "country": "EC",
+    "anonymity": "elite",
+    "latency_ms": 871,
+    "speed_kbps": 11.5,
+    "score": 100.0,
+    "last_seen": "2026-08-22T10:19:18.963042+00:00"
+  },
+  {
+    "ip": "184.181.217.213",
+    "port": 4145,
+    "protocol": "socks4",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 872,
+    "speed_kbps": 11.5,
+    "score": 100.0,
+    "last_seen": "2026-08-22T10:19:18.966930+00:00"
+  },
+  {
+    "ip": "95.3.69.222",
+    "port": 8080,
+    "protocol": "http",
+    "country": "TR",
+    "anonymity": "anonymous",
+    "latency_ms": 888,
+    "speed_kbps": 11.3,
+    "score": 100.0,
+    "last_seen": "2026-08-22T10:19:18.958974+00:00"
+  },
+  {
+    "ip": "1.231.81.166",
+    "port": 3128,
+    "protocol": "http",
+    "country": "KR",
+    "anonymity": "anonymous",
+    "latency_ms": 952,
+    "speed_kbps": 10.5,
+    "score": 100.0,
+    "last_seen": "2026-08-22T10:19:18.958338+00:00"
+  },
+  {
+    "ip": "72.49.49.11",
+    "port": 31034,
+    "protocol": "socks4",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 954,
+    "speed_kbps": 10.5,
+    "score": 100.0,
+    "last_seen": "2026-08-22T10:19:18.966420+00:00"
+  },
+  {
+    "ip": "208.102.51.6",
+    "port": 58208,
+    "protocol": "socks4",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 993,
+    "speed_kbps": 10.1,
+    "score": 100.0,
+    "last_seen": "2026-08-22T10:19:18.968952+00:00"
+  },
+  {
+    "ip": "87.251.77.29",
+    "port": 3128,
+    "protocol": "http",
+    "country": "DE",
+    "anonymity": "anonymous",
+    "latency_ms": 1009,
+    "speed_kbps": 9.9,
+    "score": 100.0,
+    "last_seen": "2026-08-22T10:19:18.975092+00:00"
+  },
+  {
+    "ip": "74.119.144.60",
+    "port": 4145,
+    "protocol": "socks4",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 1028,
+    "speed_kbps": null,
+    "score": 100.0,
+    "last_seen": "2026-08-22T10:19:18.967902+00:00"
+  },
+  {
+    "ip": "216.68.128.121",
+    "port": 4145,
+    "protocol": "socks4",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 1040,
+    "speed_kbps": 9.6,
+    "score": 100.0,
+    "last_seen": "2026-08-22T10:19:18.970826+00:00"
+  },
+  {
+    "ip": "103.177.118.145",
+    "port": 8118,
+    "protocol": "http",
+    "country": "BD",
+    "anonymity": "anonymous",
+    "latency_ms": 1102,
+    "speed_kbps": 9.1,
+    "score": 100.0,
+    "last_seen": "2026-08-22T10:19:18.959592+00:00"
+  },
+  {
+    "ip": "184.185.2.12",
     "port": 4145,
     "protocol": "socks5",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 745,
-    "speed_kbps": 13.4,
-    "score": 96.5,
-    "last_seen": "2026-08-22T08:24:59.926923+00:00"
+    "latency_ms": 1142,
+    "speed_kbps": 8.7,
+    "score": 100.0,
+    "last_seen": "2026-08-22T10:19:18.995143+00:00"
+  },
+  {
+    "ip": "190.97.236.128",
+    "port": 999,
+    "protocol": "http",
+    "country": "VE",
+    "anonymity": "anonymous",
+    "latency_ms": 1205,
+    "speed_kbps": 8.3,
+    "score": 100.0,
+    "last_seen": "2026-08-22T10:19:18.957409+00:00"
+  },
+  {
+    "ip": "153.72.68.0",
+    "port": 8080,
+    "protocol": "http",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 1263,
+    "speed_kbps": 0.1,
+    "score": 100.0,
+    "last_seen": "2026-08-22T10:19:18.957074+00:00"
+  },
+  {
+    "ip": "204.76.203.9",
+    "port": 3128,
+    "protocol": "http",
+    "country": "NL",
+    "anonymity": "anonymous",
+    "latency_ms": 1518,
+    "speed_kbps": 6.6,
+    "score": 100.0,
+    "last_seen": "2026-08-22T10:19:18.956178+00:00"
+  },
+  {
+    "ip": "69.61.200.104",
+    "port": 36181,
+    "protocol": "socks4",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 2002,
+    "speed_kbps": 5.0,
+    "score": 100.0,
+    "last_seen": "2026-08-22T10:19:18.967416+00:00"
+  },
+  {
+    "ip": "66.42.224.229",
+    "port": 41679,
+    "protocol": "socks4",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 2049,
+    "speed_kbps": 4.9,
+    "score": 100.0,
+    "last_seen": "2026-08-22T10:19:18.974169+00:00"
+  },
+  {
+    "ip": "184.182.240.211",
+    "port": 4145,
+    "protocol": "socks4",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 2177,
+    "speed_kbps": 4.6,
+    "score": 100.0,
+    "last_seen": "2026-08-22T10:19:18.966758+00:00"
+  },
+  {
+    "ip": "45.43.63.37",
+    "port": 10808,
+    "protocol": "socks5",
+    "country": "SG",
+    "anonymity": "anonymous",
+    "latency_ms": 2586,
+    "speed_kbps": 3.9,
+    "score": 100.0,
+    "last_seen": "2026-08-22T10:19:18.998819+00:00"
+  },
+  {
+    "ip": "14.139.235.82",
+    "port": 3128,
+    "protocol": "http",
+    "country": "IN",
+    "anonymity": "anonymous",
+    "latency_ms": 2588,
+    "speed_kbps": 3.9,
+    "score": 100.0,
+    "last_seen": "2026-08-22T10:19:18.964228+00:00"
+  },
+  {
+    "ip": "8.213.151.128",
+    "port": 3128,
+    "protocol": "http",
+    "country": "KR",
+    "anonymity": "anonymous",
+    "latency_ms": 2634,
+    "speed_kbps": 3.8,
+    "score": 100.0,
+    "last_seen": "2026-08-22T10:19:18.958401+00:00"
+  },
+  {
+    "ip": "112.74.101.87",
+    "port": 9999,
+    "protocol": "http",
+    "country": "CN",
+    "anonymity": "anonymous",
+    "latency_ms": 3139,
+    "speed_kbps": 3.2,
+    "score": 100.0,
+    "last_seen": "2026-08-22T10:19:18.975854+00:00"
+  },
+  {
+    "ip": "98.191.0.47",
+    "port": 4145,
+    "protocol": "socks5",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 8043,
+    "speed_kbps": 1.2,
+    "score": 100.0,
+    "last_seen": "2026-08-22T10:19:18.997349+00:00"
   },
   {
     "ip": "219.142.66.245",
@@ -467,10 +434,10 @@
     "protocol": "http",
     "country": "CN",
     "anonymity": "anonymous",
-    "latency_ms": 2089,
-    "speed_kbps": 4.8,
-    "score": 92.5,
-    "last_seen": "2026-08-22T08:24:59.656857+00:00"
+    "latency_ms": 1093,
+    "speed_kbps": 9.1,
+    "score": 97.1,
+    "last_seen": "2026-08-22T10:19:18.958058+00:00"
   },
   {
     "ip": "103.149.75.82",
@@ -478,10 +445,10 @@
     "protocol": "socks4",
     "country": "BD",
     "anonymity": "anonymous",
-    "latency_ms": 2300,
+    "latency_ms": 2349,
     "speed_kbps": 4.3,
-    "score": 92.1,
-    "last_seen": "2026-08-22T08:24:59.661527+00:00"
+    "score": 96.7,
+    "last_seen": "2026-08-22T10:19:18.887960+00:00"
   },
   {
     "ip": "47.121.139.13",
@@ -489,21 +456,10 @@
     "protocol": "http",
     "country": "CN",
     "anonymity": "anonymous",
-    "latency_ms": 2950,
-    "speed_kbps": 3.4,
-    "score": 92.0,
-    "last_seen": "2026-08-22T08:24:59.637852+00:00"
-  },
-  {
-    "ip": "184.178.172.26",
-    "port": 4145,
-    "protocol": "socks4",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 647,
-    "speed_kbps": 15.4,
-    "score": 91.6,
-    "last_seen": "2026-08-22T08:24:59.640252+00:00"
+    "latency_ms": 4232,
+    "speed_kbps": 2.4,
+    "score": 96.6,
+    "last_seen": "2026-08-22T10:19:18.975881+00:00"
   },
   {
     "ip": "174.64.199.79",
@@ -511,120 +467,10 @@
     "protocol": "socks4",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 647,
-    "speed_kbps": 15.4,
-    "score": 91.6,
-    "last_seen": "2026-08-22T08:24:59.646874+00:00"
-  },
-  {
-    "ip": "184.181.217.206",
-    "port": 4145,
-    "protocol": "socks4",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 652,
-    "speed_kbps": 15.3,
-    "score": 91.6,
-    "last_seen": "2026-08-22T08:24:59.647505+00:00"
-  },
-  {
-    "ip": "184.181.217.220",
-    "port": 4145,
-    "protocol": "socks4",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 653,
-    "speed_kbps": 15.3,
-    "score": 91.6,
-    "last_seen": "2026-08-22T08:24:59.643775+00:00"
-  },
-  {
-    "ip": "184.178.172.25",
-    "port": 15291,
-    "protocol": "socks4",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 656,
-    "speed_kbps": 15.2,
-    "score": 91.6,
-    "last_seen": "2026-08-22T08:24:59.644858+00:00"
-  },
-  {
-    "ip": "72.195.114.184",
-    "port": 4145,
-    "protocol": "socks4",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 658,
-    "speed_kbps": 15.2,
-    "score": 91.6,
-    "last_seen": "2026-08-22T08:24:59.642769+00:00"
-  },
-  {
-    "ip": "184.178.172.23",
-    "port": 4145,
-    "protocol": "socks4",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 661,
-    "speed_kbps": 15.1,
-    "score": 91.6,
-    "last_seen": "2026-08-22T08:24:59.640359+00:00"
-  },
-  {
-    "ip": "184.181.217.210",
-    "port": 4145,
-    "protocol": "socks4",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 662,
-    "speed_kbps": 15.1,
-    "score": 91.6,
-    "last_seen": "2026-08-22T08:24:59.639228+00:00"
-  },
-  {
-    "ip": "184.181.217.201",
-    "port": 4145,
-    "protocol": "socks4",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 663,
-    "speed_kbps": 15.1,
-    "score": 91.6,
-    "last_seen": "2026-08-22T08:24:59.642097+00:00"
-  },
-  {
-    "ip": "184.181.217.194",
-    "port": 4145,
-    "protocol": "socks4",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 669,
-    "speed_kbps": 14.9,
-    "score": 91.6,
-    "last_seen": "2026-08-22T08:24:59.643894+00:00"
-  },
-  {
-    "ip": "184.178.172.5",
-    "port": 15303,
-    "protocol": "socks4",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 680,
-    "speed_kbps": 14.7,
-    "score": 91.6,
-    "last_seen": "2026-08-22T08:24:59.643217+00:00"
-  },
-  {
-    "ip": "184.178.172.28",
-    "port": 15294,
-    "protocol": "socks4",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 682,
-    "speed_kbps": 14.6,
-    "score": 91.6,
-    "last_seen": "2026-08-22T08:24:59.638818+00:00"
+    "latency_ms": 483,
+    "speed_kbps": null,
+    "score": 96.2,
+    "last_seen": "2026-08-22T10:19:18.970746+00:00"
   },
   {
     "ip": "72.195.34.41",
@@ -632,10 +478,21 @@
     "protocol": "socks4",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 688,
-    "speed_kbps": 14.5,
-    "score": 91.6,
-    "last_seen": "2026-08-22T08:24:59.644199+00:00"
+    "latency_ms": 484,
+    "speed_kbps": null,
+    "score": 96.2,
+    "last_seen": "2026-08-22T10:19:18.968904+00:00"
+  },
+  {
+    "ip": "184.181.217.201",
+    "port": 4145,
+    "protocol": "socks4",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 748,
+    "speed_kbps": 13.4,
+    "score": 96.2,
+    "last_seen": "2026-08-22T10:19:18.967209+00:00"
   },
   {
     "ip": "174.77.111.196",
@@ -643,10 +500,87 @@
     "protocol": "socks4",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 693,
-    "speed_kbps": 14.4,
-    "score": 91.6,
-    "last_seen": "2026-08-22T08:24:59.644548+00:00"
+    "latency_ms": 748,
+    "speed_kbps": 13.4,
+    "score": 96.2,
+    "last_seen": "2026-08-22T10:19:18.971736+00:00"
+  },
+  {
+    "ip": "184.178.172.26",
+    "port": 4145,
+    "protocol": "socks4",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 766,
+    "speed_kbps": 13.1,
+    "score": 96.2,
+    "last_seen": "2026-08-22T10:19:18.968177+00:00"
+  },
+  {
+    "ip": "184.181.217.210",
+    "port": 4145,
+    "protocol": "socks4",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 771,
+    "speed_kbps": 13.0,
+    "score": 96.2,
+    "last_seen": "2026-08-22T10:19:18.968046+00:00"
+  },
+  {
+    "ip": "184.178.172.25",
+    "port": 15291,
+    "protocol": "socks4",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 775,
+    "speed_kbps": 12.9,
+    "score": 96.2,
+    "last_seen": "2026-08-22T10:19:18.965860+00:00"
+  },
+  {
+    "ip": "184.181.217.220",
+    "port": 4145,
+    "protocol": "socks4",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 793,
+    "speed_kbps": 12.6,
+    "score": 96.2,
+    "last_seen": "2026-08-22T10:19:18.972259+00:00"
+  },
+  {
+    "ip": "184.181.217.206",
+    "port": 4145,
+    "protocol": "socks4",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 803,
+    "speed_kbps": 12.4,
+    "score": 96.2,
+    "last_seen": "2026-08-22T10:19:18.972875+00:00"
+  },
+  {
+    "ip": "184.178.172.28",
+    "port": 15294,
+    "protocol": "socks4",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 811,
+    "speed_kbps": 12.3,
+    "score": 96.2,
+    "last_seen": "2026-08-22T10:19:18.966755+00:00"
+  },
+  {
+    "ip": "72.195.114.184",
+    "port": 4145,
+    "protocol": "socks4",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 812,
+    "speed_kbps": 12.3,
+    "score": 96.2,
+    "last_seen": "2026-08-22T10:19:18.969958+00:00"
   },
   {
     "ip": "72.195.34.35",
@@ -654,10 +588,43 @@
     "protocol": "socks4",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 732,
-    "speed_kbps": 13.6,
-    "score": 91.6,
-    "last_seen": "2026-08-22T08:24:59.643999+00:00"
+    "latency_ms": 812,
+    "speed_kbps": 12.3,
+    "score": 96.2,
+    "last_seen": "2026-08-22T10:19:18.973890+00:00"
+  },
+  {
+    "ip": "184.178.172.5",
+    "port": 15303,
+    "protocol": "socks4",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 844,
+    "speed_kbps": 11.8,
+    "score": 96.2,
+    "last_seen": "2026-08-22T10:19:18.966079+00:00"
+  },
+  {
+    "ip": "184.181.217.194",
+    "port": 4145,
+    "protocol": "socks4",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 848,
+    "speed_kbps": 11.8,
+    "score": 96.2,
+    "last_seen": "2026-08-22T10:19:18.971770+00:00"
+  },
+  {
+    "ip": "184.178.172.23",
+    "port": 4145,
+    "protocol": "socks4",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 848,
+    "speed_kbps": 11.8,
+    "score": 96.2,
+    "last_seen": "2026-08-22T10:19:18.972433+00:00"
   },
   {
     "ip": "184.178.172.18",
@@ -665,10 +632,10 @@
     "protocol": "socks4",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 750,
-    "speed_kbps": 13.3,
-    "score": 91.6,
-    "last_seen": "2026-08-22T08:24:59.645061+00:00"
+    "latency_ms": 859,
+    "speed_kbps": 11.6,
+    "score": 96.2,
+    "last_seen": "2026-08-22T10:19:18.965654+00:00"
   },
   {
     "ip": "98.188.47.132",
@@ -676,10 +643,10 @@
     "protocol": "socks4",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 760,
-    "speed_kbps": 13.1,
-    "score": 91.6,
-    "last_seen": "2026-08-22T08:24:59.644680+00:00"
+    "latency_ms": 860,
+    "speed_kbps": 11.6,
+    "score": 96.2,
+    "last_seen": "2026-08-22T10:19:18.966520+00:00"
   },
   {
     "ip": "13.214.205.160",
@@ -687,10 +654,10 @@
     "protocol": "http",
     "country": "SG",
     "anonymity": "anonymous",
-    "latency_ms": 794,
-    "speed_kbps": 0.4,
-    "score": 91.4,
-    "last_seen": "2026-08-22T08:24:59.655707+00:00"
+    "latency_ms": 2104,
+    "speed_kbps": 0.1,
+    "score": 96.0,
+    "last_seen": "2026-08-22T10:19:18.960909+00:00"
   },
   {
     "ip": "202.28.194.139",
@@ -698,21 +665,21 @@
     "protocol": "http",
     "country": "TH",
     "anonymity": "anonymous",
-    "latency_ms": 1217,
+    "latency_ms": 1214,
     "speed_kbps": 0.1,
-    "score": 91.2,
-    "last_seen": "2026-08-22T08:24:59.654803+00:00"
+    "score": 95.8,
+    "last_seen": "2026-08-22T10:19:18.964020+00:00"
   },
   {
     "ip": "144.24.111.128",
     "port": 1088,
     "protocol": "socks5",
     "country": "IN",
-    "anonymity": "anonymous",
-    "latency_ms": 1418,
-    "speed_kbps": 7.0,
-    "score": 91.2,
-    "last_seen": "2026-08-22T08:24:59.635715+00:00"
+    "anonymity": "elite",
+    "latency_ms": 1695,
+    "speed_kbps": 5.9,
+    "score": 95.8,
+    "last_seen": "2026-08-22T10:19:18.993449+00:00"
   },
   {
     "ip": "101.36.104.239",
@@ -720,21 +687,10 @@
     "protocol": "socks5",
     "country": "JP",
     "anonymity": "anonymous",
-    "latency_ms": 1482,
-    "speed_kbps": 6.7,
-    "score": 91.2,
-    "last_seen": "2026-08-22T08:24:59.632500+00:00"
-  },
-  {
-    "ip": "44.193.20.213",
-    "port": 443,
-    "protocol": "http",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 341,
-    "speed_kbps": 29.2,
-    "score": 87.8,
-    "last_seen": "2026-08-22T08:24:59.657911+00:00"
+    "latency_ms": 4660,
+    "speed_kbps": 2.1,
+    "score": 95.8,
+    "last_seen": "2026-08-22T10:19:18.999118+00:00"
   },
   {
     "ip": "199.66.182.232",
@@ -742,10 +698,21 @@
     "protocol": "socks4",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 640,
-    "speed_kbps": 15.6,
-    "score": 87.8,
-    "last_seen": "2026-08-22T08:24:59.642319+00:00"
+    "latency_ms": 812,
+    "speed_kbps": 12.3,
+    "score": 92.4,
+    "last_seen": "2026-08-22T10:19:18.967582+00:00"
+  },
+  {
+    "ip": "44.193.20.213",
+    "port": 443,
+    "protocol": "http",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 2485,
+    "speed_kbps": 4.0,
+    "score": 92.4,
+    "last_seen": "2026-08-22T10:19:18.953646+00:00"
   },
   {
     "ip": "72.207.113.97",
@@ -753,21 +720,10 @@
     "protocol": "socks4",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 668,
-    "speed_kbps": 15.0,
-    "score": 86.8,
-    "last_seen": "2026-08-22T08:24:59.639120+00:00"
-  },
-  {
-    "ip": "72.207.109.5",
-    "port": 4145,
-    "protocol": "socks4",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 673,
-    "speed_kbps": 14.8,
-    "score": 86.7,
-    "last_seen": "2026-08-22T08:24:59.640159+00:00"
+    "latency_ms": 483,
+    "speed_kbps": null,
+    "score": 91.4,
+    "last_seen": "2026-08-22T10:19:18.968343+00:00"
   },
   {
     "ip": "34.43.46.91",
@@ -775,10 +731,10 @@
     "protocol": "http",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 478,
-    "speed_kbps": 0.3,
-    "score": 82.6,
-    "last_seen": "2026-08-22T08:24:59.660324+00:00"
+    "latency_ms": 1158,
+    "speed_kbps": null,
+    "score": 87.3,
+    "last_seen": "2026-08-22T10:19:18.975309+00:00"
   },
   {
     "ip": "98.175.31.222",
@@ -786,21 +742,32 @@
     "protocol": "socks5",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 734,
-    "speed_kbps": 13.6,
-    "score": 82.5,
-    "last_seen": "2026-08-22T08:24:59.628481+00:00"
+    "latency_ms": 599,
+    "speed_kbps": null,
+    "score": 87.2,
+    "last_seen": "2026-08-22T10:19:19.002923+00:00"
   },
   {
-    "ip": "72.195.101.99",
+    "ip": "174.75.211.222",
     "port": 4145,
     "protocol": "socks5",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 3867,
-    "speed_kbps": 2.6,
-    "score": 77.2,
-    "last_seen": "2026-08-22T08:24:59.927026+00:00"
+    "latency_ms": 859,
+    "speed_kbps": 11.6,
+    "score": 86.5,
+    "last_seen": "2026-08-22T10:19:19.000740+00:00"
+  },
+  {
+    "ip": "72.214.108.67",
+    "port": 4145,
+    "protocol": "socks5",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 586,
+    "speed_kbps": null,
+    "score": 81.6,
+    "last_seen": "2026-08-22T10:19:19.002134+00:00"
   },
   {
     "ip": "70.166.167.55",
@@ -808,10 +775,10 @@
     "protocol": "socks4",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 651,
-    "speed_kbps": 15.4,
-    "score": 72.8,
-    "last_seen": "2026-08-22T08:24:59.640614+00:00"
+    "latency_ms": 774,
+    "speed_kbps": 12.9,
+    "score": 77.5,
+    "last_seen": "2026-08-22T10:19:18.966705+00:00"
   },
   {
     "ip": "139.59.1.14",
@@ -819,21 +786,10 @@
     "protocol": "http",
     "country": "IN",
     "anonymity": "elite",
-    "latency_ms": 2246,
+    "latency_ms": 2888,
     "speed_kbps": null,
-    "score": 72.8,
-    "last_seen": "2026-08-22T08:24:59.649749+00:00"
-  },
-  {
-    "ip": "13.221.202.200",
-    "port": 3128,
-    "protocol": "http",
-    "country": "US",
-    "anonymity": "elite",
-    "latency_ms": 566,
-    "speed_kbps": null,
-    "score": 72.7,
-    "last_seen": "2026-08-22T08:24:59.658345+00:00"
+    "score": 77.5,
+    "last_seen": "2026-08-22T10:19:18.960871+00:00"
   },
   {
     "ip": "98.178.72.21",
@@ -841,10 +797,10 @@
     "protocol": "socks4",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 652,
-    "speed_kbps": 15.3,
-    "score": 72.6,
-    "last_seen": "2026-08-22T08:24:59.641912+00:00"
+    "latency_ms": 751,
+    "speed_kbps": 13.3,
+    "score": 77.3,
+    "last_seen": "2026-08-22T10:19:18.972491+00:00"
   },
   {
     "ip": "47.89.184.18",
@@ -852,21 +808,10 @@
     "protocol": "http",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 1953,
-    "speed_kbps": 5.1,
-    "score": 72.6,
-    "last_seen": "2026-08-22T08:24:59.648863+00:00"
-  },
-  {
-    "ip": "47.243.92.199",
-    "port": 3128,
-    "protocol": "http",
-    "country": "HK",
-    "anonymity": "anonymous",
-    "latency_ms": 4324,
-    "speed_kbps": 2.3,
-    "score": 72.6,
-    "last_seen": "2026-08-22T08:24:59.654577+00:00"
+    "latency_ms": 2996,
+    "speed_kbps": 3.3,
+    "score": 77.3,
+    "last_seen": "2026-08-22T10:19:18.956418+00:00"
   },
   {
     "ip": "74.119.147.209",
@@ -874,32 +819,10 @@
     "protocol": "socks4",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 653,
-    "speed_kbps": 15.3,
-    "score": 72.1,
-    "last_seen": "2026-08-22T08:24:59.640864+00:00"
-  },
-  {
-    "ip": "192.111.137.37",
-    "port": 18762,
-    "protocol": "socks4",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 308,
+    "latency_ms": 423,
     "speed_kbps": null,
-    "score": 72.0,
-    "last_seen": "2026-08-22T08:24:59.641615+00:00"
-  },
-  {
-    "ip": "72.205.0.93",
-    "port": 4145,
-    "protocol": "socks5",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 484,
-    "speed_kbps": null,
-    "score": 72.0,
-    "last_seen": "2026-08-22T08:24:59.631262+00:00"
+    "score": 76.8,
+    "last_seen": "2026-08-22T10:19:18.968742+00:00"
   },
   {
     "ip": "72.207.33.64",
@@ -907,10 +830,10 @@
     "protocol": "socks5",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 764,
-    "speed_kbps": 13.1,
-    "score": 72.0,
-    "last_seen": "2026-08-22T08:24:59.927240+00:00"
+    "latency_ms": 862,
+    "speed_kbps": 11.6,
+    "score": 76.7,
+    "last_seen": "2026-08-22T10:19:19.002417+00:00"
   },
   {
     "ip": "8.209.255.13",
@@ -918,43 +841,10 @@
     "protocol": "http",
     "country": "JP",
     "anonymity": "anonymous",
-    "latency_ms": 1746,
-    "speed_kbps": null,
-    "score": 71.8,
-    "last_seen": "2026-08-22T08:24:59.656740+00:00"
-  },
-  {
-    "ip": "165.154.162.73",
-    "port": 8888,
-    "protocol": "http",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 346,
-    "speed_kbps": null,
-    "score": 71.7,
-    "last_seen": "2026-08-22T08:24:59.660910+00:00"
-  },
-  {
-    "ip": "72.205.0.67",
-    "port": 4145,
-    "protocol": "socks4",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 653,
-    "speed_kbps": 15.3,
-    "score": 71.7,
-    "last_seen": "2026-08-22T08:24:59.641598+00:00"
-  },
-  {
-    "ip": "184.178.172.17",
-    "port": 4145,
-    "protocol": "socks4",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 659,
-    "speed_kbps": 15.2,
-    "score": 71.7,
-    "last_seen": "2026-08-22T08:24:59.646396+00:00"
+    "latency_ms": 1593,
+    "speed_kbps": 6.3,
+    "score": 76.5,
+    "last_seen": "2026-08-22T10:19:18.953591+00:00"
   },
   {
     "ip": "98.175.31.195",
@@ -962,10 +852,32 @@
     "protocol": "socks4",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 696,
-    "speed_kbps": 14.3,
-    "score": 71.7,
-    "last_seen": "2026-08-22T08:24:59.641522+00:00"
+    "latency_ms": 482,
+    "speed_kbps": null,
+    "score": 76.4,
+    "last_seen": "2026-08-22T10:19:18.968224+00:00"
+  },
+  {
+    "ip": "72.205.0.67",
+    "port": 4145,
+    "protocol": "socks5",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 598,
+    "speed_kbps": null,
+    "score": 76.4,
+    "last_seen": "2026-08-22T10:19:18.997903+00:00"
+  },
+  {
+    "ip": "184.178.172.17",
+    "port": 4145,
+    "protocol": "socks4",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 756,
+    "speed_kbps": 13.2,
+    "score": 76.4,
+    "last_seen": "2026-08-22T10:19:18.967031+00:00"
   },
   {
     "ip": "70.166.167.38",
@@ -973,10 +885,21 @@
     "protocol": "socks4",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 714,
-    "speed_kbps": 14.0,
-    "score": 71.7,
-    "last_seen": "2026-08-22T08:24:59.644983+00:00"
+    "latency_ms": 777,
+    "speed_kbps": 12.9,
+    "score": 76.4,
+    "last_seen": "2026-08-22T10:19:18.974495+00:00"
+  },
+  {
+    "ip": "165.154.162.73",
+    "port": 8888,
+    "protocol": "http",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 2733,
+    "speed_kbps": 3.7,
+    "score": 76.4,
+    "last_seen": "2026-08-22T10:19:18.959794+00:00"
   },
   {
     "ip": "112.64.135.45",
@@ -984,10 +907,10 @@
     "protocol": "http",
     "country": "CN",
     "anonymity": "anonymous",
-    "latency_ms": 1876,
-    "speed_kbps": 5.3,
-    "score": 71.4,
-    "last_seen": "2026-08-22T08:24:59.650732+00:00"
+    "latency_ms": 8100,
+    "speed_kbps": 1.2,
+    "score": 76.1,
+    "last_seen": "2026-08-22T10:19:18.963505+00:00"
   },
   {
     "ip": "184.182.240.12",
@@ -995,10 +918,10 @@
     "protocol": "socks4",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 1713,
-    "speed_kbps": 5.8,
-    "score": 71.2,
-    "last_seen": "2026-08-22T08:24:59.645844+00:00"
+    "latency_ms": 1336,
+    "speed_kbps": 7.5,
+    "score": 75.9,
+    "last_seen": "2026-08-22T10:19:18.971287+00:00"
   },
   {
     "ip": "98.188.47.150",
@@ -1006,21 +929,10 @@
     "protocol": "socks4",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 666,
-    "speed_kbps": 15.0,
-    "score": 70.9,
-    "last_seen": "2026-08-22T08:24:59.645267+00:00"
-  },
-  {
-    "ip": "47.252.52.58",
-    "port": 8081,
-    "protocol": "http",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 224,
-    "speed_kbps": 44.6,
-    "score": 67.7,
-    "last_seen": "2026-08-22T08:24:59.654300+00:00"
+    "latency_ms": 808,
+    "speed_kbps": 12.4,
+    "score": 75.6,
+    "last_seen": "2026-08-22T10:19:18.967239+00:00"
   },
   {
     "ip": "213.136.77.119",
@@ -1028,10 +940,10 @@
     "protocol": "http",
     "country": "FR",
     "anonymity": "anonymous",
-    "latency_ms": 3513,
-    "speed_kbps": 2.8,
-    "score": 66.9,
-    "last_seen": "2026-08-22T08:24:59.903540+00:00"
+    "latency_ms": 2200,
+    "speed_kbps": 4.5,
+    "score": 71.6,
+    "last_seen": "2026-08-22T10:19:18.962588+00:00"
   },
   {
     "ip": "145.239.41.4",
@@ -1039,21 +951,10 @@
     "protocol": "http",
     "country": "FR",
     "anonymity": "anonymous",
-    "latency_ms": 374,
-    "speed_kbps": 26.7,
-    "score": 66.2,
-    "last_seen": "2026-08-22T08:24:59.651274+00:00"
-  },
-  {
-    "ip": "93.93.207.219",
-    "port": 8088,
-    "protocol": "http",
-    "country": "RU",
-    "anonymity": "anonymous",
-    "latency_ms": 645,
-    "speed_kbps": 15.5,
-    "score": 64.5,
-    "last_seen": "2026-08-22T08:24:59.650660+00:00"
+    "latency_ms": 500,
+    "speed_kbps": 20.0,
+    "score": 70.9,
+    "last_seen": "2026-08-22T10:19:18.962354+00:00"
   },
   {
     "ip": "102.39.214.109",
@@ -1061,10 +962,10 @@
     "protocol": "http",
     "country": "ZA",
     "anonymity": "anonymous",
-    "latency_ms": 1108,
-    "speed_kbps": 9.0,
-    "score": 64.5,
-    "last_seen": "2026-08-22T08:24:59.659000+00:00"
+    "latency_ms": 1125,
+    "speed_kbps": null,
+    "score": 69.2,
+    "last_seen": "2026-08-22T10:19:18.957388+00:00"
   },
   {
     "ip": "103.157.200.126",
@@ -1072,21 +973,10 @@
     "protocol": "http",
     "country": "PK",
     "anonymity": "anonymous",
-    "latency_ms": 1370,
-    "speed_kbps": 7.3,
-    "score": 64.5,
-    "last_seen": "2026-08-22T08:24:59.648703+00:00"
-  },
-  {
-    "ip": "70.34.249.28",
-    "port": 2001,
-    "protocol": "http",
-    "country": "PL",
-    "anonymity": "elite",
-    "latency_ms": 1983,
-    "speed_kbps": null,
-    "score": 63.2,
-    "last_seen": "2026-08-22T08:24:59.655490+00:00"
+    "latency_ms": 1651,
+    "speed_kbps": 6.1,
+    "score": 69.2,
+    "last_seen": "2026-08-22T10:19:18.956355+00:00"
   },
   {
     "ip": "47.91.65.23",
@@ -1094,10 +984,10 @@
     "protocol": "http",
     "country": "DE",
     "anonymity": "anonymous",
-    "latency_ms": 835,
+    "latency_ms": 705,
     "speed_kbps": null,
-    "score": 62.9,
-    "last_seen": "2026-08-22T08:24:59.657891+00:00"
+    "score": 67.6,
+    "last_seen": "2026-08-22T10:19:18.964196+00:00"
   },
   {
     "ip": "88.135.36.246",
@@ -1105,109 +995,32 @@
     "protocol": "socks5",
     "country": "IR",
     "anonymity": "anonymous",
-    "latency_ms": 1034,
-    "speed_kbps": null,
-    "score": 59.8,
-    "last_seen": "2026-08-22T08:24:59.631279+00:00"
+    "latency_ms": 1271,
+    "speed_kbps": 7.9,
+    "score": 64.6,
+    "last_seen": "2026-08-22T10:19:18.996325+00:00"
   },
   {
-    "ip": "34.238.165.158",
-    "port": 3128,
+    "ip": "8.141.121.115",
+    "port": 13126,
     "protocol": "http",
-    "country": "US",
-    "anonymity": "elite",
-    "latency_ms": 1273,
+    "country": "CN",
+    "anonymity": "anonymous",
+    "latency_ms": 1039,
     "speed_kbps": null,
-    "score": 59.8,
-    "last_seen": "2026-08-22T08:24:59.651944+00:00"
+    "score": 63.9,
+    "last_seen": "2026-08-22T10:19:18.975419+00:00"
   },
   {
-    "ip": "98.178.72.30",
+    "ip": "192.252.214.17",
     "port": 4145,
     "protocol": "socks5",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 737,
-    "speed_kbps": 13.6,
-    "score": 56.5,
-    "last_seen": "2026-08-22T08:24:59.628779+00:00"
-  },
-  {
-    "ip": "83.138.13.51",
-    "port": 4080,
-    "protocol": "socks5",
-    "country": "IE",
-    "anonymity": "anonymous",
-    "latency_ms": 843,
-    "speed_kbps": 11.9,
-    "score": 55.0,
-    "last_seen": "2026-08-22T08:24:59.927113+00:00"
-  },
-  {
-    "ip": "217.173.31.28",
-    "port": 1080,
-    "protocol": "socks5",
-    "country": "RU",
-    "anonymity": "anonymous",
-    "latency_ms": 942,
+    "latency_ms": 524,
     "speed_kbps": null,
-    "score": 55.0,
-    "last_seen": "2026-08-22T08:24:59.661067+00:00"
-  },
-  {
-    "ip": "45.74.31.42",
-    "port": 8382,
-    "protocol": "socks5",
-    "country": "DE",
-    "anonymity": "elite",
-    "latency_ms": 1106,
-    "speed_kbps": 9.0,
-    "score": 55.0,
-    "last_seen": "2026-08-22T08:24:59.926991+00:00"
-  },
-  {
-    "ip": "58.218.169.186",
-    "port": 10800,
-    "protocol": "socks4",
-    "country": "CN",
-    "anonymity": "anonymous",
-    "latency_ms": 1248,
-    "speed_kbps": null,
-    "score": 55.0,
-    "last_seen": "2026-08-22T08:24:59.661915+00:00"
-  },
-  {
-    "ip": "45.74.31.30",
-    "port": 4177,
-    "protocol": "socks5",
-    "country": "DE",
-    "anonymity": "anonymous",
-    "latency_ms": 1711,
-    "speed_kbps": 5.8,
-    "score": 55.0,
-    "last_seen": "2026-08-22T08:24:59.926984+00:00"
-  },
-  {
-    "ip": "45.74.31.30",
-    "port": 8079,
-    "protocol": "socks5",
-    "country": "DE",
-    "anonymity": "anonymous",
-    "latency_ms": 1820,
-    "speed_kbps": 5.5,
-    "score": 55.0,
-    "last_seen": "2026-08-22T08:24:59.926902+00:00"
-  },
-  {
-    "ip": "45.74.31.30",
-    "port": 8182,
-    "protocol": "socks5",
-    "country": "DE",
-    "anonymity": "anonymous",
-    "latency_ms": 1836,
-    "speed_kbps": null,
-    "score": 55.0,
-    "last_seen": "2026-08-22T08:24:59.927096+00:00"
+    "score": 62.4,
+    "last_seen": "2026-08-22T10:19:19.002434+00:00"
   },
   {
     "ip": "103.79.183.158",
@@ -1215,32 +1028,10 @@
     "protocol": "socks4",
     "country": "BD",
     "anonymity": "anonymous",
-    "latency_ms": 2275,
-    "speed_kbps": null,
-    "score": 55.0,
-    "last_seen": "2026-08-22T08:24:59.661658+00:00"
-  },
-  {
-    "ip": "45.140.169.209",
-    "port": 1080,
-    "protocol": "socks4",
-    "country": "RU",
-    "anonymity": "anonymous",
-    "latency_ms": 5867,
-    "speed_kbps": 1.7,
-    "score": 55.0,
-    "last_seen": "2026-08-22T08:24:59.661617+00:00"
-  },
-  {
-    "ip": "45.74.31.42",
-    "port": 5345,
-    "protocol": "socks5",
-    "country": "DE",
-    "anonymity": "anonymous",
-    "latency_ms": 6349,
+    "latency_ms": 6390,
     "speed_kbps": 1.6,
-    "score": 55.0,
-    "last_seen": "2026-08-22T08:24:59.927119+00:00"
+    "score": 59.8,
+    "last_seen": "2026-08-22T10:19:18.887969+00:00"
   },
   {
     "ip": "192.252.208.70",
@@ -1248,10 +1039,10 @@
     "protocol": "socks4",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 644,
-    "speed_kbps": 15.5,
-    "score": 53.4,
-    "last_seen": "2026-08-22T08:24:59.641435+00:00"
+    "latency_ms": 424,
+    "speed_kbps": null,
+    "score": 58.2,
+    "last_seen": "2026-08-22T10:19:18.965723+00:00"
   },
   {
     "ip": "184.178.172.13",
@@ -1259,32 +1050,10 @@
     "protocol": "socks4",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 649,
-    "speed_kbps": 15.4,
-    "score": 53.3,
-    "last_seen": "2026-08-22T08:24:59.643529+00:00"
-  },
-  {
-    "ip": "157.90.113.23",
-    "port": 9052,
-    "protocol": "socks5",
-    "country": "DE",
-    "anonymity": "anonymous",
-    "latency_ms": 530,
-    "speed_kbps": 18.9,
-    "score": 53.0,
-    "last_seen": "2026-08-22T08:24:59.631034+00:00"
-  },
-  {
-    "ip": "142.54.226.214",
-    "port": 4145,
-    "protocol": "socks4",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 428,
-    "speed_kbps": null,
-    "score": 52.9,
-    "last_seen": "2026-08-22T08:24:59.643914+00:00"
+    "latency_ms": 794,
+    "speed_kbps": 12.6,
+    "score": 58.1,
+    "last_seen": "2026-08-22T10:19:18.970836+00:00"
   },
   {
     "ip": "34.229.113.62",
@@ -1292,32 +1061,10 @@
     "protocol": "socks5",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 2046,
-    "speed_kbps": 4.9,
-    "score": 52.8,
-    "last_seen": "2026-08-22T08:24:59.633823+00:00"
-  },
-  {
-    "ip": "199.102.105.242",
-    "port": 4145,
-    "protocol": "socks4",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 740,
-    "speed_kbps": 13.5,
-    "score": 52.7,
-    "last_seen": "2026-08-22T08:24:59.644892+00:00"
-  },
-  {
-    "ip": "67.201.35.145",
-    "port": 4145,
-    "protocol": "socks4",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 399,
-    "speed_kbps": null,
-    "score": 52.4,
-    "last_seen": "2026-08-22T08:24:59.907240+00:00"
+    "latency_ms": 2509,
+    "speed_kbps": 4.0,
+    "score": 57.6,
+    "last_seen": "2026-08-22T10:19:18.997158+00:00"
   },
   {
     "ip": "45.61.129.165",
@@ -1325,10 +1072,21 @@
     "protocol": "socks4",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 1560,
-    "speed_kbps": 6.4,
-    "score": 52.4,
-    "last_seen": "2026-08-22T08:24:59.661672+00:00"
+    "latency_ms": 1943,
+    "speed_kbps": 5.1,
+    "score": 57.2,
+    "last_seen": "2026-08-22T10:19:18.888103+00:00"
+  },
+  {
+    "ip": "114.236.137.41",
+    "port": 21000,
+    "protocol": "http",
+    "country": "CN",
+    "anonymity": "anonymous",
+    "latency_ms": 1664,
+    "speed_kbps": 6.0,
+    "score": 57.0,
+    "last_seen": "2026-08-22T10:19:19.200207+00:00"
   },
   {
     "ip": "68.1.210.163",
@@ -1336,10 +1094,10 @@
     "protocol": "socks4",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 685,
-    "speed_kbps": 14.6,
-    "score": 52.1,
-    "last_seen": "2026-08-22T08:24:59.645120+00:00"
+    "latency_ms": 7941,
+    "speed_kbps": 1.3,
+    "score": 56.9,
+    "last_seen": "2026-08-22T10:19:18.970346+00:00"
   },
   {
     "ip": "144.91.121.61",
@@ -1347,10 +1105,10 @@
     "protocol": "socks5",
     "country": "FR",
     "anonymity": "anonymous",
-    "latency_ms": 2066,
-    "speed_kbps": 4.8,
-    "score": 51.8,
-    "last_seen": "2026-08-22T08:24:59.629651+00:00"
+    "latency_ms": 6605,
+    "speed_kbps": 1.5,
+    "score": 56.6,
+    "last_seen": "2026-08-22T10:19:19.000138+00:00"
   },
   {
     "ip": "68.1.210.189",
@@ -1358,65 +1116,186 @@
     "protocol": "socks4",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 657,
-    "speed_kbps": 15.2,
-    "score": 51.6,
-    "last_seen": "2026-08-22T08:24:59.646922+00:00"
+    "latency_ms": 485,
+    "speed_kbps": null,
+    "score": 56.4,
+    "last_seen": "2026-08-22T10:19:18.974213+00:00"
   },
   {
-    "ip": "34.69.61.247",
-    "port": 80,
+    "ip": "152.42.167.241",
+    "port": 3128,
     "protocol": "http",
-    "country": "US",
-    "anonymity": "elite",
-    "latency_ms": 462,
-    "speed_kbps": 0.3,
-    "score": 51.4,
-    "last_seen": "2026-08-22T08:24:59.653539+00:00"
+    "country": "SG",
+    "anonymity": "anonymous",
+    "latency_ms": 1287,
+    "speed_kbps": 7.8,
+    "score": 56.4,
+    "last_seen": "2026-08-22T10:19:18.964255+00:00"
   },
   {
     "ip": "45.66.249.187",
     "port": 8181,
     "protocol": "http",
     "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 1355,
+    "speed_kbps": null,
+    "score": 55.6,
+    "last_seen": "2026-08-22T10:19:18.956884+00:00"
+  },
+  {
+    "ip": "72.195.114.169",
+    "port": 4145,
+    "protocol": "socks4",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 486,
+    "speed_kbps": null,
+    "score": 55.0,
+    "last_seen": "2026-08-22T10:19:18.966471+00:00"
+  },
+  {
+    "ip": "89.251.21.12",
+    "port": 8080,
+    "protocol": "http",
+    "country": "NL",
+    "anonymity": "anonymous",
+    "latency_ms": 757,
+    "speed_kbps": null,
+    "score": 55.0,
+    "last_seen": "2026-08-22T10:19:18.975797+00:00"
+  },
+  {
+    "ip": "98.170.57.231",
+    "port": 4145,
+    "protocol": "socks4",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 762,
+    "speed_kbps": 13.1,
+    "score": 55.0,
+    "last_seen": "2026-08-22T10:19:18.972770+00:00"
+  },
+  {
+    "ip": "72.195.34.58",
+    "port": 4145,
+    "protocol": "socks4",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 815,
+    "speed_kbps": 12.3,
+    "score": 55.0,
+    "last_seen": "2026-08-22T10:19:18.968419+00:00"
+  },
+  {
+    "ip": "160.238.65.2",
+    "port": 3128,
+    "protocol": "http",
+    "country": "NL",
     "anonymity": "elite",
-    "latency_ms": 1687,
-    "speed_kbps": 5.9,
-    "score": 50.8,
-    "last_seen": "2026-08-22T08:24:59.651149+00:00"
+    "latency_ms": 1685,
+    "speed_kbps": null,
+    "score": 55.0,
+    "last_seen": "2026-08-22T10:19:18.975116+00:00"
+  },
+  {
+    "ip": "160.238.65.4",
+    "port": 3128,
+    "protocol": "http",
+    "country": "NL",
+    "anonymity": "elite",
+    "latency_ms": 2119,
+    "speed_kbps": null,
+    "score": 55.0,
+    "last_seen": "2026-08-22T10:19:18.975065+00:00"
+  },
+  {
+    "ip": "160.238.65.5",
+    "port": 3128,
+    "protocol": "http",
+    "country": "NL",
+    "anonymity": "elite",
+    "latency_ms": 2155,
+    "speed_kbps": null,
+    "score": 55.0,
+    "last_seen": "2026-08-22T10:19:18.975154+00:00"
+  },
+  {
+    "ip": "160.238.65.3",
+    "port": 3128,
+    "protocol": "http",
+    "country": "NL",
+    "anonymity": "elite",
+    "latency_ms": 2355,
+    "speed_kbps": null,
+    "score": 55.0,
+    "last_seen": "2026-08-22T10:19:18.975078+00:00"
+  },
+  {
+    "ip": "160.238.65.8",
+    "port": 3128,
+    "protocol": "http",
+    "country": "NL",
+    "anonymity": "elite",
+    "latency_ms": 2400,
+    "speed_kbps": null,
+    "score": 55.0,
+    "last_seen": "2026-08-22T10:19:18.975071+00:00"
+  },
+  {
+    "ip": "160.238.65.7",
+    "port": 3128,
+    "protocol": "http",
+    "country": "NL",
+    "anonymity": "elite",
+    "latency_ms": 2570,
+    "speed_kbps": null,
+    "score": 55.0,
+    "last_seen": "2026-08-22T10:19:18.975099+00:00"
+  },
+  {
+    "ip": "45.74.31.30",
+    "port": 4387,
+    "protocol": "socks5",
+    "country": "DE",
+    "anonymity": "anonymous",
+    "latency_ms": 2653,
+    "speed_kbps": null,
+    "score": 55.0,
+    "last_seen": "2026-08-22T10:19:19.002954+00:00"
+  },
+  {
+    "ip": "45.198.20.166",
+    "port": 8080,
+    "protocol": "http",
+    "country": "ID",
+    "anonymity": "anonymous",
+    "latency_ms": 4032,
+    "speed_kbps": 2.5,
+    "score": 55.0,
+    "last_seen": "2026-08-22T10:19:18.976246+00:00"
+  },
+  {
+    "ip": "163.223.118.100",
+    "port": 8085,
+    "protocol": "http",
+    "country": "ID",
+    "anonymity": "anonymous",
+    "latency_ms": 8198,
+    "speed_kbps": 1.2,
+    "score": 55.0,
+    "last_seen": "2026-08-22T10:19:18.954283+00:00"
   },
   {
     "ip": "78.159.131.108",
     "port": 1082,
-    "protocol": "socks4",
+    "protocol": "socks5",
     "country": "AL",
     "anonymity": "anonymous",
-    "latency_ms": 433,
+    "latency_ms": 2855,
     "speed_kbps": null,
-    "score": 47.2,
-    "last_seen": "2026-08-22T08:24:59.640262+00:00"
-  },
-  {
-    "ip": "34.43.46.91",
-    "port": 80,
-    "protocol": "http",
-    "country": "US",
-    "anonymity": "elite",
-    "latency_ms": 382,
-    "speed_kbps": 0.4,
-    "score": 44.2,
-    "last_seen": "2026-08-22T08:24:59.656572+00:00"
-  },
-  {
-    "ip": "98.83.197.228",
-    "port": 3128,
-    "protocol": "http",
-    "country": "US",
-    "anonymity": "elite",
-    "latency_ms": 385,
-    "speed_kbps": null,
-    "score": 44.2,
-    "last_seen": "2026-08-22T08:24:59.651793+00:00"
+    "score": 52.0,
+    "last_seen": "2026-08-22T10:19:19.000388+00:00"
   },
   {
     "ip": "174.64.199.82",
@@ -1424,131 +1303,109 @@
     "protocol": "socks4",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 653,
-    "speed_kbps": 15.3,
-    "score": 44.2,
-    "last_seen": "2026-08-22T08:24:59.640996+00:00"
+    "latency_ms": 827,
+    "speed_kbps": 12.1,
+    "score": 49.0,
+    "last_seen": "2026-08-22T10:19:18.971776+00:00"
   },
   {
-    "ip": "198.199.86.11",
-    "port": 3128,
+    "ip": "34.43.46.91",
+    "port": 80,
     "protocol": "http",
     "country": "US",
-    "anonymity": "elite",
-    "latency_ms": 1559,
-    "speed_kbps": null,
-    "score": 44.2,
-    "last_seen": "2026-08-22T08:24:59.653157+00:00"
-  },
-  {
-    "ip": "177.128.81.10",
-    "port": 81,
-    "protocol": "socks4",
-    "country": "BR",
     "anonymity": "anonymous",
-    "latency_ms": 642,
-    "speed_kbps": null,
-    "score": 43.9,
-    "last_seen": "2026-08-22T08:24:59.661929+00:00"
-  },
-  {
-    "ip": "159.148.146.65",
-    "port": 5678,
-    "protocol": "socks4",
-    "country": "LV",
-    "anonymity": "anonymous",
-    "latency_ms": 2437,
+    "latency_ms": 1470,
     "speed_kbps": 0.1,
-    "score": 42.8,
-    "last_seen": "2026-08-22T08:24:59.639344+00:00"
+    "score": 49.0,
+    "last_seen": "2026-08-22T10:19:18.953696+00:00"
   },
   {
-    "ip": "102.215.245.6",
-    "port": 4153,
-    "protocol": "socks4",
-    "country": "ZA",
+    "ip": "152.32.168.221",
+    "port": 10808,
+    "protocol": "socks5",
+    "country": "HK",
     "anonymity": "anonymous",
-    "latency_ms": 2303,
-    "speed_kbps": 4.3,
-    "score": 42.3,
-    "last_seen": "2026-08-22T08:24:59.661682+00:00"
+    "latency_ms": 1225,
+    "speed_kbps": 8.2,
+    "score": 46.5,
+    "last_seen": "2026-08-22T10:19:18.998422+00:00"
   },
   {
-    "ip": "197.157.195.154",
-    "port": 1080,
-    "protocol": "socks4",
-    "country": "BI",
-    "anonymity": "anonymous",
-    "latency_ms": 1415,
-    "speed_kbps": null,
-    "score": 42.1,
-    "last_seen": "2026-08-22T08:24:59.661798+00:00"
-  },
-  {
-    "ip": "223.207.99.83",
-    "port": 8080,
-    "protocol": "http",
-    "country": "TH",
-    "anonymity": "anonymous",
-    "latency_ms": 2084,
-    "speed_kbps": null,
-    "score": 39.9,
-    "last_seen": "2026-08-22T08:24:59.648645+00:00"
-  },
-  {
-    "ip": "103.160.205.244",
-    "port": 8080,
-    "protocol": "socks4",
-    "country": "ID",
-    "anonymity": "anonymous",
-    "latency_ms": 1268,
-    "speed_kbps": null,
-    "score": 39.7,
-    "last_seen": "2026-08-22T08:24:59.661867+00:00"
-  },
-  {
-    "ip": "77.85.168.253",
+    "ip": "192.252.210.233",
     "port": 4145,
-    "protocol": "socks4",
-    "country": "BG",
+    "protocol": "socks5",
+    "country": "GB",
     "anonymity": "anonymous",
-    "latency_ms": 1633,
+    "latency_ms": 525,
     "speed_kbps": null,
-    "score": 39.7,
-    "last_seen": "2026-08-22T08:24:59.661582+00:00"
+    "score": 46.3,
+    "last_seen": "2026-08-22T10:19:19.002906+00:00"
+  },
+  {
+    "ip": "94.230.127.180",
+    "port": 1080,
+    "protocol": "socks5",
+    "country": "RU",
+    "anonymity": "anonymous",
+    "latency_ms": 1577,
+    "speed_kbps": null,
+    "score": 44.5,
+    "last_seen": "2026-08-22T10:19:18.887219+00:00"
   },
   {
     "ip": "60.205.141.153",
     "port": 7890,
     "protocol": "socks4",
     "country": "CN",
-    "anonymity": "anonymous",
-    "latency_ms": 814,
-    "speed_kbps": 12.3,
-    "score": 38.6,
-    "last_seen": "2026-08-22T08:24:59.661558+00:00"
+    "anonymity": "elite",
+    "latency_ms": 1595,
+    "speed_kbps": 6.3,
+    "score": 43.4,
+    "last_seen": "2026-08-22T10:19:18.888090+00:00"
   },
   {
-    "ip": "213.87.101.134",
-    "port": 1080,
-    "protocol": "socks4",
-    "country": "RU",
-    "anonymity": "anonymous",
-    "latency_ms": 2184,
-    "speed_kbps": null,
-    "score": 38.5,
-    "last_seen": "2026-08-22T08:24:59.661510+00:00"
-  },
-  {
-    "ip": "199.58.184.97",
+    "ip": "98.182.147.97",
     "port": 4145,
     "protocol": "socks4",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 657,
-    "speed_kbps": 15.2,
-    "score": 33.7,
-    "last_seen": "2026-08-22T08:24:59.642866+00:00"
+    "latency_ms": 760,
+    "speed_kbps": 13.2,
+    "score": 41.5,
+    "last_seen": "2026-08-22T10:19:18.970943+00:00"
+  },
+  {
+    "ip": "194.61.120.238",
+    "port": 1080,
+    "protocol": "socks4",
+    "country": "NL",
+    "anonymity": "elite",
+    "latency_ms": 2293,
+    "speed_kbps": null,
+    "score": 39.7,
+    "last_seen": "2026-08-22T10:19:18.973697+00:00"
+  },
+  {
+    "ip": "43.245.85.46",
+    "port": 808,
+    "protocol": "http",
+    "country": "NP",
+    "anonymity": "anonymous",
+    "latency_ms": 1684,
+    "speed_kbps": null,
+    "score": 39.1,
+    "last_seen": "2026-08-22T10:19:18.961570+00:00"
+  },
+  {
+    "ip": "103.148.83.110",
+    "port": 8889,
+    "protocol": "http",
+    "country": "BD",
+    "anonymity": "elite",
+    "latency_ms": 2764,
+    "speed_kbps": null,
+    "score": 38.7,
+    "last_seen": "2026-08-22T10:19:18.975680+00:00"
   },
   {
     "ip": "147.45.69.42",
@@ -1556,21 +1413,21 @@
     "protocol": "http",
     "country": "NL",
     "anonymity": "anonymous",
-    "latency_ms": 5505,
-    "speed_kbps": 1.8,
-    "score": 33.7,
-    "last_seen": "2026-08-22T08:24:59.654280+00:00"
+    "latency_ms": 811,
+    "speed_kbps": 12.3,
+    "score": 38.6,
+    "last_seen": "2026-08-22T10:19:18.957941+00:00"
   },
   {
-    "ip": "199.7.149.96",
-    "port": 3128,
-    "protocol": "http",
+    "ip": "199.58.184.97",
+    "port": 4145,
+    "protocol": "socks4",
     "country": "US",
-    "anonymity": "elite",
-    "latency_ms": 800,
-    "speed_kbps": null,
-    "score": 33.6,
-    "last_seen": "2026-08-22T08:24:59.655276+00:00"
+    "anonymity": "anonymous",
+    "latency_ms": 896,
+    "speed_kbps": 11.2,
+    "score": 38.6,
+    "last_seen": "2026-08-22T10:19:18.968604+00:00"
   },
   {
     "ip": "212.58.132.5",
@@ -1578,21 +1435,21 @@
     "protocol": "socks5",
     "country": "GB",
     "anonymity": "anonymous",
-    "latency_ms": 3602,
-    "speed_kbps": 2.8,
-    "score": 33.5,
-    "last_seen": "2026-08-22T08:24:59.629227+00:00"
+    "latency_ms": 1381,
+    "speed_kbps": 7.2,
+    "score": 38.4,
+    "last_seen": "2026-08-22T10:19:18.887351+00:00"
   },
   {
-    "ip": "195.133.73.105",
-    "port": 10808,
-    "protocol": "http",
-    "country": "RU",
+    "ip": "184.181.178.33",
+    "port": 4145,
+    "protocol": "socks5",
+    "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 401,
-    "speed_kbps": 0.4,
-    "score": 33.4,
-    "last_seen": "2026-08-22T08:24:59.648973+00:00"
+    "latency_ms": 586,
+    "speed_kbps": null,
+    "score": 38.2,
+    "last_seen": "2026-08-22T10:19:19.001832+00:00"
   },
   {
     "ip": "193.25.215.182",
@@ -1600,10 +1457,10 @@
     "protocol": "socks5",
     "country": "US",
     "anonymity": "elite",
-    "latency_ms": 1047,
-    "speed_kbps": 9.5,
-    "score": 33.3,
-    "last_seen": "2026-08-22T08:24:59.634188+00:00"
+    "latency_ms": 2487,
+    "speed_kbps": null,
+    "score": 38.2,
+    "last_seen": "2026-08-22T10:19:19.001658+00:00"
   },
   {
     "ip": "192.111.137.35",
@@ -1611,21 +1468,10 @@
     "protocol": "socks4",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 663,
-    "speed_kbps": 15.1,
-    "score": 33.2,
-    "last_seen": "2026-08-22T08:24:59.644775+00:00"
-  },
-  {
-    "ip": "37.59.125.131",
-    "port": 8888,
-    "protocol": "http",
-    "country": "FR",
-    "anonymity": "anonymous",
-    "latency_ms": 844,
-    "speed_kbps": 11.8,
-    "score": 33.0,
-    "last_seen": "2026-08-22T08:24:59.649975+00:00"
+    "latency_ms": 425,
+    "speed_kbps": null,
+    "score": 38.1,
+    "last_seen": "2026-08-22T10:19:18.967626+00:00"
   },
   {
     "ip": "45.66.249.187",
@@ -1633,10 +1479,21 @@
     "protocol": "http",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 2144,
-    "speed_kbps": 4.7,
-    "score": 32.9,
-    "last_seen": "2026-08-22T08:24:59.654751+00:00"
+    "latency_ms": 355,
+    "speed_kbps": null,
+    "score": 37.8,
+    "last_seen": "2026-08-22T10:19:18.956890+00:00"
+  },
+  {
+    "ip": "45.66.249.187",
+    "port": 8080,
+    "protocol": "http",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 526,
+    "speed_kbps": null,
+    "score": 37.7,
+    "last_seen": "2026-08-22T10:19:18.955286+00:00"
   },
   {
     "ip": "43.164.3.124",
@@ -1644,32 +1501,32 @@
     "protocol": "socks5",
     "country": "TH",
     "anonymity": "anonymous",
-    "latency_ms": 1424,
-    "speed_kbps": 7.0,
-    "score": 32.8,
-    "last_seen": "2026-08-22T08:24:59.633730+00:00"
+    "latency_ms": 4424,
+    "speed_kbps": 2.3,
+    "score": 37.7,
+    "last_seen": "2026-08-22T10:19:19.001480+00:00"
   },
   {
-    "ip": "45.66.249.187",
-    "port": 8080,
-    "protocol": "http",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 2230,
-    "speed_kbps": 4.5,
-    "score": 32.8,
-    "last_seen": "2026-08-22T08:24:59.658942+00:00"
-  },
-  {
-    "ip": "117.236.124.166",
+    "ip": "43.99.100.108",
     "port": 3128,
     "protocol": "http",
-    "country": "IN",
-    "anonymity": "elite",
-    "latency_ms": 933,
-    "speed_kbps": 10.7,
-    "score": 32.7,
-    "last_seen": "2026-08-22T08:24:59.654674+00:00"
+    "country": "HK",
+    "anonymity": "anonymous",
+    "latency_ms": 983,
+    "speed_kbps": 10.2,
+    "score": 37.4,
+    "last_seen": "2026-08-22T10:19:18.962408+00:00"
+  },
+  {
+    "ip": "212.58.132.5",
+    "port": 8888,
+    "protocol": "http",
+    "country": "GB",
+    "anonymity": "anonymous",
+    "latency_ms": 1267,
+    "speed_kbps": 7.9,
+    "score": 37.4,
+    "last_seen": "2026-08-22T10:19:18.976089+00:00"
   },
   {
     "ip": "45.194.33.12",
@@ -1677,21 +1534,43 @@
     "protocol": "socks5",
     "country": "HK",
     "anonymity": "anonymous",
-    "latency_ms": 1360,
-    "speed_kbps": 7.3,
-    "score": 32.3,
-    "last_seen": "2026-08-22T08:24:59.630831+00:00"
+    "latency_ms": 1538,
+    "speed_kbps": 6.5,
+    "score": 37.2,
+    "last_seen": "2026-08-22T10:19:18.993561+00:00"
   },
   {
-    "ip": "67.201.59.70",
+    "ip": "95.254.142.165",
+    "port": 3128,
+    "protocol": "http",
+    "country": "IT",
+    "anonymity": "anonymous",
+    "latency_ms": 2750,
+    "speed_kbps": null,
+    "score": 37.0,
+    "last_seen": "2026-08-22T10:19:18.964245+00:00"
+  },
+  {
+    "ip": "192.111.129.150",
     "port": 4145,
     "protocol": "socks4",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 736,
-    "speed_kbps": 13.6,
-    "score": 31.5,
-    "last_seen": "2026-08-22T08:24:59.642000+00:00"
+    "latency_ms": 724,
+    "speed_kbps": 13.8,
+    "score": 36.0,
+    "last_seen": "2026-08-22T10:19:19.215649+00:00"
+  },
+  {
+    "ip": "192.252.211.197",
+    "port": 14921,
+    "protocol": "socks4",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 434,
+    "speed_kbps": null,
+    "score": 35.9,
+    "last_seen": "2026-08-22T10:19:18.969749+00:00"
   },
   {
     "ip": "184.178.172.14",
@@ -1699,21 +1578,10 @@
     "protocol": "socks4",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 654,
-    "speed_kbps": 15.3,
-    "score": 29.7,
-    "last_seen": "2026-08-22T08:24:59.639172+00:00"
-  },
-  {
-    "ip": "142.54.228.193",
-    "port": 4145,
-    "protocol": "socks4",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 724,
-    "speed_kbps": 13.8,
-    "score": 29.7,
-    "last_seen": "2026-08-22T08:24:59.639547+00:00"
+    "latency_ms": 806,
+    "speed_kbps": 12.4,
+    "score": 34.6,
+    "last_seen": "2026-08-22T10:19:18.965793+00:00"
   },
   {
     "ip": "144.91.111.48",
@@ -1721,21 +1589,10 @@
     "protocol": "socks5",
     "country": "FR",
     "anonymity": "anonymous",
-    "latency_ms": 1597,
-    "speed_kbps": 6.3,
-    "score": 29.7,
-    "last_seen": "2026-08-22T08:24:59.630378+00:00"
-  },
-  {
-    "ip": "5.254.178.160",
-    "port": 10801,
-    "protocol": "socks4",
-    "country": "RU",
-    "anonymity": "anonymous",
-    "latency_ms": 646,
-    "speed_kbps": null,
-    "score": 29.0,
-    "last_seen": "2026-08-22T08:24:59.661467+00:00"
+    "latency_ms": 7175,
+    "speed_kbps": 1.4,
+    "score": 34.6,
+    "last_seen": "2026-08-22T10:19:19.000639+00:00"
   },
   {
     "ip": "72.206.74.126",
@@ -1743,43 +1600,10 @@
     "protocol": "socks5",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 781,
-    "speed_kbps": 12.8,
-    "score": 28.9,
-    "last_seen": "2026-08-22T08:24:59.631014+00:00"
-  },
-  {
-    "ip": "72.37.216.68",
-    "port": 4145,
-    "protocol": "socks4",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 398,
-    "speed_kbps": null,
-    "score": 24.8,
-    "last_seen": "2026-08-22T08:24:59.644677+00:00"
-  },
-  {
-    "ip": "192.111.139.165",
-    "port": 4145,
-    "protocol": "socks4",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 656,
-    "speed_kbps": 15.2,
-    "score": 24.8,
-    "last_seen": "2026-08-22T08:24:59.642195+00:00"
-  },
-  {
-    "ip": "98.181.137.83",
-    "port": 4145,
-    "protocol": "socks4",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 657,
-    "speed_kbps": 15.2,
-    "score": 24.8,
-    "last_seen": "2026-08-22T08:24:59.646050+00:00"
+    "latency_ms": 901,
+    "speed_kbps": 11.1,
+    "score": 33.8,
+    "last_seen": "2026-08-22T10:19:19.002895+00:00"
   },
   {
     "ip": "107.152.98.5",
@@ -1787,109 +1611,120 @@
     "protocol": "socks4",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 724,
-    "speed_kbps": 13.8,
-    "score": 24.8,
-    "last_seen": "2026-08-22T08:24:59.640320+00:00"
+    "latency_ms": 763,
+    "speed_kbps": 13.1,
+    "score": 29.7,
+    "last_seen": "2026-08-22T10:19:18.967649+00:00"
+  },
+  {
+    "ip": "72.37.216.68",
+    "port": 4145,
+    "protocol": "socks4",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 767,
+    "speed_kbps": 13.0,
+    "score": 29.7,
+    "last_seen": "2026-08-22T10:19:18.969676+00:00"
+  },
+  {
+    "ip": "98.181.137.83",
+    "port": 4145,
+    "protocol": "socks4",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 779,
+    "speed_kbps": 12.8,
+    "score": 29.7,
+    "last_seen": "2026-08-22T10:19:18.973995+00:00"
+  },
+  {
+    "ip": "192.111.139.165",
+    "port": 4145,
+    "protocol": "socks4",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 910,
+    "speed_kbps": 11.0,
+    "score": 29.7,
+    "last_seen": "2026-08-22T10:19:18.966954+00:00"
   },
   {
     "ip": "147.45.60.124",
     "port": 1082,
-    "protocol": "socks4",
+    "protocol": "socks5",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 2173,
-    "speed_kbps": null,
-    "score": 24.8,
-    "last_seen": "2026-08-22T08:24:59.642244+00:00"
-  },
-  {
-    "ip": "45.74.31.30",
-    "port": 8104,
-    "protocol": "socks5",
-    "country": "DE",
-    "anonymity": "anonymous",
-    "latency_ms": 1330,
-    "speed_kbps": null,
-    "score": 24.6,
-    "last_seen": "2026-08-22T08:24:59.926727+00:00"
-  },
-  {
-    "ip": "220.192.96.253",
-    "port": 1080,
-    "protocol": "socks5",
-    "country": "CN",
-    "anonymity": "anonymous",
-    "latency_ms": 2689,
-    "speed_kbps": null,
-    "score": 24.6,
-    "last_seen": "2026-08-22T08:24:59.631349+00:00"
-  },
-  {
-    "ip": "209.97.150.167",
-    "port": 3128,
-    "protocol": "http",
-    "country": "US",
-    "anonymity": "elite",
-    "latency_ms": 1036,
-    "speed_kbps": null,
-    "score": 24.2,
-    "last_seen": "2026-08-22T08:24:59.653569+00:00"
-  },
-  {
-    "ip": "130.110.103.245",
-    "port": 3128,
-    "protocol": "http",
-    "country": "SA",
-    "anonymity": "elite",
-    "latency_ms": 1354,
-    "speed_kbps": null,
-    "score": 24.2,
-    "last_seen": "2026-08-22T08:24:59.653957+00:00"
-  },
-  {
-    "ip": "134.209.29.120",
-    "port": 3128,
-    "protocol": "http",
-    "country": "GB",
-    "anonymity": "elite",
-    "latency_ms": 1582,
-    "speed_kbps": null,
-    "score": 24.2,
-    "last_seen": "2026-08-22T08:24:59.660758+00:00"
+    "latency_ms": 2480,
+    "speed_kbps": 4.0,
+    "score": 29.7,
+    "last_seen": "2026-08-22T10:19:18.996625+00:00"
   },
   {
     "ip": "101.36.104.46",
     "port": 10808,
     "protocol": "socks5",
     "country": "JP",
-    "anonymity": "anonymous",
-    "latency_ms": 2632,
-    "speed_kbps": 3.8,
-    "score": 24.2,
-    "last_seen": "2026-08-22T08:24:59.631860+00:00"
+    "anonymity": "elite",
+    "latency_ms": 3864,
+    "speed_kbps": 2.6,
+    "score": 29.1,
+    "last_seen": "2026-08-22T10:19:18.999084+00:00"
   },
   {
-    "ip": "91.197.79.59",
+    "ip": "90.221.4.86",
+    "port": 8080,
+    "protocol": "http",
+    "country": "GB",
+    "anonymity": "anonymous",
+    "latency_ms": 4757,
+    "speed_kbps": 0.0,
+    "score": 29.1,
+    "last_seen": "2026-08-22T10:19:18.959121+00:00"
+  },
+  {
+    "ip": "128.199.202.122",
+    "port": 8080,
+    "protocol": "http",
+    "country": "SG",
+    "anonymity": "elite",
+    "latency_ms": 2450,
+    "speed_kbps": null,
+    "score": 29.0,
+    "last_seen": "2026-08-22T10:19:18.961516+00:00"
+  },
+  {
+    "ip": "139.196.95.28",
+    "port": 7890,
+    "protocol": "http",
+    "country": "CN",
+    "anonymity": "anonymous",
+    "latency_ms": 1014,
+    "speed_kbps": null,
+    "score": 28.7,
+    "last_seen": "2026-08-22T10:19:18.975559+00:00"
+  },
+  {
+    "ip": "77.50.235.130",
     "port": 1080,
     "protocol": "socks5",
     "country": "RU",
     "anonymity": "anonymous",
-    "latency_ms": 2048,
-    "speed_kbps": null,
-    "score": 24.0,
-    "last_seen": "2026-08-22T08:24:59.661227+00:00"
+    "latency_ms": 3005,
+    "speed_kbps": 3.3,
+    "score": 28.6,
+    "last_seen": "2026-08-22T10:19:18.996898+00:00"
   },
   {
-    "ip": "179.189.246.165",
-    "port": 5432,
+    "ip": "181.189.132.74",
+    "port": 5678,
     "protocol": "socks4",
-    "country": "BR",
+    "country": "GT",
     "anonymity": "anonymous",
-    "latency_ms": 5214,
-    "speed_kbps": 1.9,
-    "score": 23.6,
-    "last_seen": "2026-08-22T08:24:59.661676+00:00"
+    "latency_ms": 1471,
+    "speed_kbps": null,
+    "score": 28.1,
+    "last_seen": "2026-08-22T10:19:18.969471+00:00"
   },
   {
     "ip": "114.94.148.37",
@@ -1897,21 +1732,10 @@
     "protocol": "http",
     "country": "CN",
     "anonymity": "anonymous",
-    "latency_ms": 2644,
+    "latency_ms": 1943,
     "speed_kbps": null,
-    "score": 22.6,
-    "last_seen": "2026-08-22T08:24:59.656990+00:00"
-  },
-  {
-    "ip": "213.165.55.41",
-    "port": 8080,
-    "protocol": "http",
-    "country": "DE",
-    "anonymity": "anonymous",
-    "latency_ms": 865,
-    "speed_kbps": null,
-    "score": 19.9,
-    "last_seen": "2026-08-22T08:24:59.650621+00:00"
+    "score": 27.5,
+    "last_seen": "2026-08-22T10:19:18.956122+00:00"
   },
   {
     "ip": "59.152.97.233",
@@ -1919,65 +1743,54 @@
     "protocol": "socks5",
     "country": "BD",
     "anonymity": "anonymous",
-    "latency_ms": 1567,
-    "speed_kbps": null,
-    "score": 19.9,
-    "last_seen": "2026-08-22T08:24:59.661203+00:00"
+    "latency_ms": 1581,
+    "speed_kbps": 6.3,
+    "score": 24.8,
+    "last_seen": "2026-08-22T10:19:18.887261+00:00"
   },
   {
-    "ip": "68.71.241.33",
+    "ip": "148.230.4.230",
+    "port": 999,
+    "protocol": "http",
+    "country": "MX",
+    "anonymity": "anonymous",
+    "latency_ms": 1530,
+    "speed_kbps": null,
+    "score": 24.7,
+    "last_seen": "2026-08-22T10:19:18.955997+00:00"
+  },
+  {
+    "ip": "98.191.0.37",
     "port": 4145,
     "protocol": "socks5",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 468,
-    "speed_kbps": null,
-    "score": 19.8,
-    "last_seen": "2026-08-22T08:24:59.926770+00:00"
+    "latency_ms": 3952,
+    "speed_kbps": 2.5,
+    "score": 24.5,
+    "last_seen": "2026-08-22T10:19:19.000361+00:00"
   },
   {
-    "ip": "103.154.76.52",
-    "port": 8080,
-    "protocol": "socks4",
+    "ip": "103.172.71.151",
+    "port": 1111,
+    "protocol": "http",
     "country": "ID",
     "anonymity": "anonymous",
-    "latency_ms": 4581,
-    "speed_kbps": 2.2,
-    "score": 19.1,
-    "last_seen": "2026-08-22T08:24:59.661679+00:00"
-  },
-  {
-    "ip": "192.111.139.162",
-    "port": 4145,
-    "protocol": "socks4",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 306,
+    "latency_ms": 870,
     "speed_kbps": null,
-    "score": 15.0,
-    "last_seen": "2026-08-22T08:24:59.639422+00:00"
+    "score": 23.6,
+    "last_seen": "2026-08-22T10:19:18.975614+00:00"
   },
   {
-    "ip": "192.111.134.10",
-    "port": 4145,
-    "protocol": "socks4",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 391,
-    "speed_kbps": null,
-    "score": 15.0,
-    "last_seen": "2026-08-22T08:24:59.642438+00:00"
-  },
-  {
-    "ip": "153.80.240.37",
-    "port": 8080,
+    "ip": "154.62.127.105",
+    "port": 999,
     "protocol": "http",
-    "country": "NL",
-    "anonymity": "anonymous",
-    "latency_ms": 408,
-    "speed_kbps": 24.5,
-    "score": 15.0,
-    "last_seen": "2026-08-22T08:24:59.651015+00:00"
+    "country": "VE",
+    "anonymity": "elite",
+    "latency_ms": 1513,
+    "speed_kbps": null,
+    "score": 23.5,
+    "last_seen": "2026-08-22T10:19:18.963587+00:00"
   },
   {
     "ip": "199.102.104.70",
@@ -1985,65 +1798,10 @@
     "protocol": "socks4",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 415,
+    "latency_ms": 327,
     "speed_kbps": null,
-    "score": 15.0,
-    "last_seen": "2026-08-22T08:24:59.640061+00:00"
-  },
-  {
-    "ip": "5.45.119.70",
-    "port": 1080,
-    "protocol": "socks5",
-    "country": "EE",
-    "anonymity": "anonymous",
-    "latency_ms": 506,
-    "speed_kbps": 0.3,
-    "score": 15.0,
-    "last_seen": "2026-08-22T08:24:59.631116+00:00"
-  },
-  {
-    "ip": "192.252.209.155",
-    "port": 14455,
-    "protocol": "socks4",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 653,
-    "speed_kbps": 15.3,
-    "score": 15.0,
-    "last_seen": "2026-08-22T08:24:59.639609+00:00"
-  },
-  {
-    "ip": "192.252.208.67",
-    "port": 14287,
-    "protocol": "socks4",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 657,
-    "speed_kbps": 15.2,
-    "score": 15.0,
-    "last_seen": "2026-08-22T08:24:59.639409+00:00"
-  },
-  {
-    "ip": "192.111.137.34",
-    "port": 18765,
-    "protocol": "socks4",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 665,
-    "speed_kbps": 15.0,
-    "score": 15.0,
-    "last_seen": "2026-08-22T08:24:59.645209+00:00"
-  },
-  {
-    "ip": "67.201.33.10",
-    "port": 25283,
-    "protocol": "socks4",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 721,
-    "speed_kbps": 13.9,
-    "score": 15.0,
-    "last_seen": "2026-08-22T08:24:59.639574+00:00"
+    "score": 19.9,
+    "last_seen": "2026-08-22T10:19:18.969179+00:00"
   },
   {
     "ip": "142.54.231.38",
@@ -2051,21 +1809,32 @@
     "protocol": "socks4",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 730,
-    "speed_kbps": 13.7,
-    "score": 15.0,
-    "last_seen": "2026-08-22T08:24:59.641080+00:00"
+    "latency_ms": 763,
+    "speed_kbps": 13.1,
+    "score": 19.9,
+    "last_seen": "2026-08-22T10:19:18.968076+00:00"
   },
   {
-    "ip": "192.252.220.92",
-    "port": 17328,
+    "ip": "67.201.33.10",
+    "port": 25283,
     "protocol": "socks4",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 736,
-    "speed_kbps": 13.6,
-    "score": 15.0,
-    "last_seen": "2026-08-22T08:24:59.639598+00:00"
+    "latency_ms": 780,
+    "speed_kbps": 12.8,
+    "score": 19.9,
+    "last_seen": "2026-08-22T10:19:18.969119+00:00"
+  },
+  {
+    "ip": "192.111.137.34",
+    "port": 18765,
+    "protocol": "socks4",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 917,
+    "speed_kbps": 10.9,
+    "score": 19.9,
+    "last_seen": "2026-08-22T10:19:18.968095+00:00"
   },
   {
     "ip": "193.222.99.32",
@@ -2073,54 +1842,10 @@
     "protocol": "http",
     "country": "DE",
     "anonymity": "anonymous",
-    "latency_ms": 808,
-    "speed_kbps": 12.4,
-    "score": 15.0,
-    "last_seen": "2026-08-22T08:24:59.654208+00:00"
-  },
-  {
-    "ip": "109.172.55.227",
-    "port": 1082,
-    "protocol": "socks4",
-    "country": "FR",
-    "anonymity": "anonymous",
-    "latency_ms": 2490,
-    "speed_kbps": null,
-    "score": 15.0,
-    "last_seen": "2026-08-22T08:24:59.646013+00:00"
-  },
-  {
-    "ip": "43.160.242.118",
-    "port": 3128,
-    "protocol": "http",
-    "country": "SG",
-    "anonymity": "anonymous",
-    "latency_ms": 2821,
-    "speed_kbps": 3.5,
-    "score": 15.0,
-    "last_seen": "2026-08-22T08:24:59.657036+00:00"
-  },
-  {
-    "ip": "172.105.192.212",
-    "port": 9080,
-    "protocol": "socks5",
-    "country": "JP",
-    "anonymity": "anonymous",
-    "latency_ms": 990,
-    "speed_kbps": null,
-    "score": 14.6,
-    "last_seen": "2026-08-22T08:24:59.633806+00:00"
-  },
-  {
-    "ip": "95.163.20.1",
-    "port": 4153,
-    "protocol": "socks4",
-    "country": "RU",
-    "anonymity": "anonymous",
-    "latency_ms": 643,
-    "speed_kbps": null,
-    "score": 14.3,
-    "last_seen": "2026-08-22T08:24:59.642375+00:00"
+    "latency_ms": 4678,
+    "speed_kbps": 2.1,
+    "score": 19.9,
+    "last_seen": "2026-08-22T10:19:18.957064+00:00"
   },
   {
     "ip": "142.54.239.1",
@@ -2128,10 +1853,10 @@
     "protocol": "socks4",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 742,
-    "speed_kbps": 13.5,
-    "score": 13.6,
-    "last_seen": "2026-08-22T08:24:59.642731+00:00"
+    "latency_ms": 766,
+    "speed_kbps": 13.0,
+    "score": 18.5,
+    "last_seen": "2026-08-22T10:19:18.970806+00:00"
   },
   {
     "ip": "94.131.92.155",
@@ -2139,21 +1864,10 @@
     "protocol": "http",
     "country": "KZ",
     "anonymity": "anonymous",
-    "latency_ms": 2238,
+    "latency_ms": 1853,
     "speed_kbps": null,
-    "score": 13.5,
-    "last_seen": "2026-08-22T08:24:59.650886+00:00"
-  },
-  {
-    "ip": "163.181.207.169",
-    "port": 9999,
-    "protocol": "http",
-    "country": "VN",
-    "anonymity": "anonymous",
-    "latency_ms": 1802,
-    "speed_kbps": null,
-    "score": 13.2,
-    "last_seen": "2026-08-22T08:24:59.658154+00:00"
+    "score": 18.4,
+    "last_seen": "2026-08-22T10:19:18.959347+00:00"
   },
   {
     "ip": "85.198.82.207",
@@ -2161,10 +1875,21 @@
     "protocol": "http",
     "country": "RU",
     "anonymity": "anonymous",
-    "latency_ms": 1451,
+    "latency_ms": 1706,
     "speed_kbps": null,
-    "score": 13.1,
-    "last_seen": "2026-08-22T08:24:59.654707+00:00"
+    "score": 18.0,
+    "last_seen": "2026-08-22T10:19:18.958218+00:00"
+  },
+  {
+    "ip": "67.207.92.87",
+    "port": 1088,
+    "protocol": "socks5",
+    "country": "US",
+    "anonymity": "elite",
+    "latency_ms": 735,
+    "speed_kbps": 13.6,
+    "score": 17.9,
+    "last_seen": "2026-08-22T10:19:19.002307+00:00"
   },
   {
     "ip": "184.170.245.148",
@@ -2172,54 +1897,32 @@
     "protocol": "socks4",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 652,
-    "speed_kbps": 15.3,
-    "score": 13.0,
-    "last_seen": "2026-08-22T08:24:59.643462+00:00"
+    "latency_ms": 1859,
+    "speed_kbps": 5.4,
+    "score": 17.9,
+    "last_seen": "2026-08-22T10:19:18.968724+00:00"
   },
   {
-    "ip": "67.207.92.87",
-    "port": 1088,
+    "ip": "192.252.211.193",
+    "port": 4145,
     "protocol": "socks5",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 1435,
-    "speed_kbps": 7.0,
-    "score": 13.0,
-    "last_seen": "2026-08-22T08:24:59.632604+00:00"
-  },
-  {
-    "ip": "82.102.11.164",
-    "port": 3460,
-    "protocol": "http",
-    "country": "GB",
-    "anonymity": "anonymous",
-    "latency_ms": 1450,
+    "latency_ms": 522,
     "speed_kbps": null,
-    "score": 12.8,
-    "last_seen": "2026-08-22T08:24:59.654737+00:00"
+    "score": 17.4,
+    "last_seen": "2026-08-22T10:19:19.000311+00:00"
   },
   {
-    "ip": "184.170.248.5",
-    "port": 4145,
+    "ip": "192.111.135.17",
+    "port": 18302,
     "protocol": "socks4",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 312,
+    "latency_ms": 425,
     "speed_kbps": null,
-    "score": 10.0,
-    "last_seen": "2026-08-22T08:24:59.641466+00:00"
-  },
-  {
-    "ip": "31.220.40.59",
-    "port": 5080,
-    "protocol": "socks4",
-    "country": "NL",
-    "anonymity": "anonymous",
-    "latency_ms": 351,
-    "speed_kbps": 0.4,
-    "score": 10.0,
-    "last_seen": "2026-08-22T08:24:59.642783+00:00"
+    "score": 16.5,
+    "last_seen": "2026-08-22T10:19:18.965481+00:00"
   },
   {
     "ip": "68.71.249.153",
@@ -2227,10 +1930,10 @@
     "protocol": "socks4",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 391,
+    "latency_ms": 352,
     "speed_kbps": null,
-    "score": 10.0,
-    "last_seen": "2026-08-22T08:24:59.639965+00:00"
+    "score": 15.0,
+    "last_seen": "2026-08-22T10:19:18.965664+00:00"
   },
   {
     "ip": "206.220.175.2",
@@ -2238,10 +1941,10 @@
     "protocol": "socks4",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 400,
+    "latency_ms": 352,
     "speed_kbps": null,
-    "score": 10.0,
-    "last_seen": "2026-08-22T08:24:59.639012+00:00"
+    "score": 15.0,
+    "last_seen": "2026-08-22T10:19:18.967010+00:00"
   },
   {
     "ip": "192.111.129.145",
@@ -2249,87 +1952,10 @@
     "protocol": "socks4",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 646,
-    "speed_kbps": 15.5,
-    "score": 10.0,
-    "last_seen": "2026-08-22T08:24:59.639694+00:00"
-  },
-  {
-    "ip": "192.252.216.81",
-    "port": 4145,
-    "protocol": "socks4",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 654,
-    "speed_kbps": 15.3,
-    "score": 10.0,
-    "last_seen": "2026-08-22T08:24:59.640686+00:00"
-  },
-  {
-    "ip": "192.111.139.163",
-    "port": 19404,
-    "protocol": "socks4",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 668,
-    "speed_kbps": 15.0,
-    "score": 10.0,
-    "last_seen": "2026-08-22T08:24:59.641208+00:00"
-  },
-  {
-    "ip": "68.71.252.38",
-    "port": 4145,
-    "protocol": "socks4",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 735,
-    "speed_kbps": 13.6,
-    "score": 10.0,
-    "last_seen": "2026-08-22T08:24:59.639536+00:00"
-  },
-  {
-    "ip": "194.67.51.210",
-    "port": 1080,
-    "protocol": "socks5",
-    "country": "RU",
-    "anonymity": "anonymous",
-    "latency_ms": 906,
+    "latency_ms": 431,
     "speed_kbps": null,
-    "score": 10.0,
-    "last_seen": "2026-08-22T08:24:59.661170+00:00"
-  },
-  {
-    "ip": "46.146.223.102",
-    "port": 1080,
-    "protocol": "socks5",
-    "country": "RU",
-    "anonymity": "anonymous",
-    "latency_ms": 1036,
-    "speed_kbps": null,
-    "score": 10.0,
-    "last_seen": "2026-08-22T08:24:59.630452+00:00"
-  },
-  {
-    "ip": "109.123.251.109",
-    "port": 1080,
-    "protocol": "socks5",
-    "country": "FR",
-    "anonymity": "anonymous",
-    "latency_ms": 1082,
-    "speed_kbps": 9.2,
-    "score": 10.0,
-    "last_seen": "2026-08-22T08:24:59.629343+00:00"
-  },
-  {
-    "ip": "195.19.50.135",
-    "port": 1080,
-    "protocol": "socks5",
-    "country": "RU",
-    "anonymity": "anonymous",
-    "latency_ms": 1095,
-    "speed_kbps": null,
-    "score": 10.0,
-    "last_seen": "2026-08-22T08:24:59.629619+00:00"
+    "score": 15.0,
+    "last_seen": "2026-08-22T10:19:18.968208+00:00"
   },
   {
     "ip": "85.174.84.22",
@@ -2337,32 +1963,10 @@
     "protocol": "socks5",
     "country": "RU",
     "anonymity": "anonymous",
-    "latency_ms": 1148,
+    "latency_ms": 1280,
     "speed_kbps": null,
-    "score": 10.0,
-    "last_seen": "2026-08-22T08:24:59.630807+00:00"
-  },
-  {
-    "ip": "78.111.149.103",
-    "port": 1080,
-    "protocol": "socks5",
-    "country": "RU",
-    "anonymity": "anonymous",
-    "latency_ms": 1264,
-    "speed_kbps": null,
-    "score": 10.0,
-    "last_seen": "2026-08-22T08:24:59.633601+00:00"
-  },
-  {
-    "ip": "72.56.27.122",
-    "port": 1081,
-    "protocol": "socks5",
-    "country": "NL",
-    "anonymity": "anonymous",
-    "latency_ms": 1535,
-    "speed_kbps": null,
-    "score": 10.0,
-    "last_seen": "2026-08-22T08:24:59.661348+00:00"
+    "score": 15.0,
+    "last_seen": "2026-08-22T10:19:18.998774+00:00"
   },
   {
     "ip": "91.228.133.191",
@@ -2370,54 +1974,10 @@
     "protocol": "http",
     "country": "IR",
     "anonymity": "anonymous",
-    "latency_ms": 1681,
-    "speed_kbps": null,
-    "score": 10.0,
-    "last_seen": "2026-08-22T08:24:59.658516+00:00"
-  },
-  {
-    "ip": "89.151.134.157",
-    "port": 3629,
-    "protocol": "socks4",
-    "country": "RU",
-    "anonymity": "anonymous",
-    "latency_ms": 1765,
-    "speed_kbps": null,
-    "score": 10.0,
-    "last_seen": "2026-08-22T08:24:59.644009+00:00"
-  },
-  {
-    "ip": "89.163.135.20",
-    "port": 8236,
-    "protocol": "socks5",
-    "country": "DE",
-    "anonymity": "anonymous",
-    "latency_ms": 1962,
-    "speed_kbps": null,
-    "score": 10.0,
-    "last_seen": "2026-08-22T08:24:59.629929+00:00"
-  },
-  {
-    "ip": "89.169.168.25",
-    "port": 6101,
-    "protocol": "socks4",
-    "country": "RU",
-    "anonymity": "anonymous",
-    "latency_ms": 2802,
-    "speed_kbps": null,
-    "score": 10.0,
-    "last_seen": "2026-08-22T08:24:59.643425+00:00"
-  },
-  {
-    "ip": "147.45.221.111",
-    "port": 1082,
-    "protocol": "socks5",
-    "country": "AL",
-    "anonymity": "elite",
-    "latency_ms": 3471,
-    "speed_kbps": 2.9,
-    "score": 10.0,
-    "last_seen": "2026-08-22T08:24:59.633074+00:00"
+    "latency_ms": 1879,
+    "speed_kbps": 5.3,
+    "score": 15.0,
+    "last_seen": "2026-08-22T10:19:18.960215+00:00"
   },
   {
     "ip": "154.91.176.171",
@@ -2425,10 +1985,21 @@
     "protocol": "socks5",
     "country": "HK",
     "anonymity": "anonymous",
-    "latency_ms": 3982,
-    "speed_kbps": 2.5,
-    "score": 10.0,
-    "last_seen": "2026-08-22T08:24:59.634414+00:00"
+    "latency_ms": 2118,
+    "speed_kbps": 4.7,
+    "score": 15.0,
+    "last_seen": "2026-08-22T10:19:19.000015+00:00"
+  },
+  {
+    "ip": "78.111.149.103",
+    "port": 1080,
+    "protocol": "socks5",
+    "country": "RU",
+    "anonymity": "anonymous",
+    "latency_ms": 2315,
+    "speed_kbps": null,
+    "score": 15.0,
+    "last_seen": "2026-08-22T10:19:18.995971+00:00"
   },
   {
     "ip": "149.62.186.244",
@@ -2436,109 +2007,87 @@
     "protocol": "socks4",
     "country": "IT",
     "anonymity": "anonymous",
-    "latency_ms": 4432,
-    "speed_kbps": 0.0,
-    "score": 10.0,
-    "last_seen": "2026-08-22T08:24:59.639194+00:00"
+    "latency_ms": 2381,
+    "speed_kbps": 0.1,
+    "score": 15.0,
+    "last_seen": "2026-08-22T10:19:18.965069+00:00"
   },
   {
-    "ip": "88.87.79.18",
+    "ip": "194.67.51.210",
+    "port": 1080,
+    "protocol": "socks5",
+    "country": "RU",
+    "anonymity": "anonymous",
+    "latency_ms": 2430,
+    "speed_kbps": null,
+    "score": 15.0,
+    "last_seen": "2026-08-22T10:19:18.995153+00:00"
+  },
+  {
+    "ip": "89.151.134.157",
     "port": 3629,
     "protocol": "socks4",
     "country": "RU",
-    "anonymity": "anonymous",
-    "latency_ms": 750,
+    "anonymity": "elite",
+    "latency_ms": 2752,
     "speed_kbps": null,
-    "score": 9.9,
-    "last_seen": "2026-08-22T08:24:59.661874+00:00"
+    "score": 15.0,
+    "last_seen": "2026-08-22T10:19:18.969913+00:00"
   },
   {
-    "ip": "180.167.234.224",
+    "ip": "195.19.50.135",
     "port": 1080,
-    "protocol": "socks4",
-    "country": "CN",
-    "anonymity": "anonymous",
-    "latency_ms": 1140,
-    "speed_kbps": null,
-    "score": 9.3,
-    "last_seen": "2026-08-22T08:24:59.648187+00:00"
-  },
-  {
-    "ip": "115.74.155.107",
-    "port": 1080,
-    "protocol": "socks4",
-    "country": "VN",
-    "anonymity": "anonymous",
-    "latency_ms": 1149,
-    "speed_kbps": null,
-    "score": 9.3,
-    "last_seen": "2026-08-22T08:24:59.641886+00:00"
-  },
-  {
-    "ip": "103.151.74.29",
-    "port": 2025,
     "protocol": "socks5",
-    "country": "BD",
-    "anonymity": "anonymous",
-    "latency_ms": 1518,
+    "country": "RU",
+    "anonymity": "elite",
+    "latency_ms": 2861,
     "speed_kbps": null,
-    "score": 9.3,
-    "last_seen": "2026-08-22T08:24:59.634633+00:00"
+    "score": 15.0,
+    "last_seen": "2026-08-22T10:19:18.999947+00:00"
   },
   {
-    "ip": "120.89.95.42",
+    "ip": "184.170.249.65",
+    "port": 4145,
+    "protocol": "socks4",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 436,
+    "speed_kbps": null,
+    "score": 14.9,
+    "last_seen": "2026-08-22T10:19:18.970077+00:00"
+  },
+  {
+    "ip": "185.79.243.153",
+    "port": 38431,
+    "protocol": "socks4",
+    "country": "PL",
+    "anonymity": "anonymous",
+    "latency_ms": 3604,
+    "speed_kbps": 0.0,
+    "score": 14.8,
+    "last_seen": "2026-08-22T10:19:18.969064+00:00"
+  },
+  {
+    "ip": "217.182.195.221",
+    "port": 30005,
+    "protocol": "http",
+    "country": "FR",
+    "anonymity": "anonymous",
+    "latency_ms": 5582,
+    "speed_kbps": 1.8,
+    "score": 14.1,
+    "last_seen": "2026-08-22T10:19:19.200739+00:00"
+  },
+  {
+    "ip": "185.94.164.182",
     "port": 8080,
     "protocol": "http",
-    "country": "ID",
+    "country": "NL",
     "anonymity": "anonymous",
-    "latency_ms": 4061,
-    "speed_kbps": 2.5,
-    "score": 8.5,
-    "last_seen": "2026-08-22T08:24:59.638176+00:00"
-  },
-  {
-    "ip": "147.45.60.241",
-    "port": 1082,
-    "protocol": "socks4",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 85,
+    "latency_ms": 1098,
     "speed_kbps": null,
-    "score": 5.0,
-    "last_seen": "2026-08-22T08:24:59.646637+00:00"
-  },
-  {
-    "ip": "43.162.94.99",
-    "port": 1080,
-    "protocol": "socks5",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 377,
-    "speed_kbps": null,
-    "score": 5.0,
-    "last_seen": "2026-08-22T08:24:59.633847+00:00"
-  },
-  {
-    "ip": "31.76.31.119",
-    "port": 1080,
-    "protocol": "socks5",
-    "country": "FI",
-    "anonymity": "anonymous",
-    "latency_ms": 430,
-    "speed_kbps": 0.3,
-    "score": 5.0,
-    "last_seen": "2026-08-22T08:24:59.632295+00:00"
-  },
-  {
-    "ip": "45.238.57.1",
-    "port": 3629,
-    "protocol": "socks4",
-    "country": "EC",
-    "anonymity": "anonymous",
-    "latency_ms": 460,
-    "speed_kbps": null,
-    "score": 5.0,
-    "last_seen": "2026-08-22T08:24:59.645683+00:00"
+    "score": 13.1,
+    "last_seen": "2026-08-22T10:19:18.961872+00:00"
   },
   {
     "ip": "68.71.249.158",
@@ -2546,153 +2095,10 @@
     "protocol": "socks5",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 464,
+    "latency_ms": 395,
     "speed_kbps": null,
-    "score": 5.0,
-    "last_seen": "2026-08-22T08:24:59.926499+00:00"
-  },
-  {
-    "ip": "177.91.255.35",
-    "port": 5678,
-    "protocol": "socks4",
-    "country": "PE",
-    "anonymity": "anonymous",
-    "latency_ms": 561,
-    "speed_kbps": null,
-    "score": 5.0,
-    "last_seen": "2026-08-22T08:24:59.907221+00:00"
-  },
-  {
-    "ip": "190.104.26.227",
-    "port": 33638,
-    "protocol": "socks4",
-    "country": "BO",
-    "anonymity": "anonymous",
-    "latency_ms": 639,
-    "speed_kbps": null,
-    "score": 5.0,
-    "last_seen": "2026-08-22T08:24:59.642954+00:00"
-  },
-  {
-    "ip": "199.229.254.129",
-    "port": 4145,
-    "protocol": "socks4",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 650,
-    "speed_kbps": 15.4,
-    "score": 5.0,
-    "last_seen": "2026-08-22T08:24:59.646116+00:00"
-  },
-  {
-    "ip": "216.106.179.216",
-    "port": 49176,
-    "protocol": "socks5",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 657,
-    "speed_kbps": null,
-    "score": 5.0,
-    "last_seen": "2026-08-22T08:24:59.927164+00:00"
-  },
-  {
-    "ip": "109.106.196.250",
-    "port": 4145,
-    "protocol": "socks4",
-    "country": "RU",
-    "anonymity": "anonymous",
-    "latency_ms": 675,
-    "speed_kbps": null,
-    "score": 5.0,
-    "last_seen": "2026-08-22T08:24:59.907461+00:00"
-  },
-  {
-    "ip": "161.35.90.93",
-    "port": 1083,
-    "protocol": "socks5",
-    "country": "NL",
-    "anonymity": "anonymous",
-    "latency_ms": 677,
-    "speed_kbps": null,
-    "score": 5.0,
-    "last_seen": "2026-08-22T08:24:59.630860+00:00"
-  },
-  {
-    "ip": "188.93.140.146",
-    "port": 1080,
-    "protocol": "socks5",
-    "country": "SE",
-    "anonymity": "anonymous",
-    "latency_ms": 763,
-    "speed_kbps": null,
-    "score": 5.0,
-    "last_seen": "2026-08-22T08:24:59.661355+00:00"
-  },
-  {
-    "ip": "179.189.242.5",
-    "port": 5432,
-    "protocol": "socks4",
-    "country": "BR",
-    "anonymity": "anonymous",
-    "latency_ms": 806,
-    "speed_kbps": null,
-    "score": 5.0,
-    "last_seen": "2026-08-22T08:24:59.907403+00:00"
-  },
-  {
-    "ip": "212.48.134.145",
-    "port": 1080,
-    "protocol": "socks5",
-    "country": "RU",
-    "anonymity": "anonymous",
-    "latency_ms": 833,
-    "speed_kbps": null,
-    "score": 5.0,
-    "last_seen": "2026-08-22T08:24:59.635084+00:00"
-  },
-  {
-    "ip": "109.199.107.68",
-    "port": 1080,
-    "protocol": "socks5",
-    "country": "FR",
-    "anonymity": "anonymous",
-    "latency_ms": 844,
-    "speed_kbps": null,
-    "score": 5.0,
-    "last_seen": "2026-08-22T08:24:59.661331+00:00"
-  },
-  {
-    "ip": "46.146.210.123",
-    "port": 1080,
-    "protocol": "socks5",
-    "country": "RU",
-    "anonymity": "anonymous",
-    "latency_ms": 845,
-    "speed_kbps": null,
-    "score": 5.0,
-    "last_seen": "2026-08-22T08:24:59.630940+00:00"
-  },
-  {
-    "ip": "102.213.179.66",
-    "port": 8080,
-    "protocol": "http",
-    "country": "KE",
-    "anonymity": "anonymous",
-    "latency_ms": 900,
-    "speed_kbps": null,
-    "score": 5.0,
-    "last_seen": "2026-08-22T08:24:59.654267+00:00"
-  },
-  {
-    "ip": "45.130.201.172",
-    "port": 1080,
-    "protocol": "socks4",
-    "country": "NL",
-    "anonymity": "anonymous",
-    "latency_ms": 957,
-    "speed_kbps": null,
-    "score": 5.0,
-    "last_seen": "2026-08-22T08:24:59.661593+00:00"
+    "score": 10.0,
+    "last_seen": "2026-08-22T10:19:19.002420+00:00"
   },
   {
     "ip": "117.50.194.130",
@@ -2700,263 +2106,21 @@
     "protocol": "http",
     "country": "CN",
     "anonymity": "anonymous",
-    "latency_ms": 1143,
+    "latency_ms": 837,
     "speed_kbps": null,
-    "score": 5.0,
-    "last_seen": "2026-08-22T08:24:59.657301+00:00"
+    "score": 10.0,
+    "last_seen": "2026-08-22T10:19:18.956893+00:00"
   },
   {
-    "ip": "195.133.65.238",
-    "port": 10909,
-    "protocol": "http",
-    "country": "DE",
-    "anonymity": "anonymous",
-    "latency_ms": 1163,
-    "speed_kbps": null,
-    "score": 5.0,
-    "last_seen": "2026-08-22T08:24:59.650986+00:00"
-  },
-  {
-    "ip": "195.190.121.154",
+    "ip": "85.172.55.85",
     "port": 1080,
     "protocol": "socks5",
     "country": "RU",
     "anonymity": "anonymous",
-    "latency_ms": 1209,
+    "latency_ms": 1226,
     "speed_kbps": null,
-    "score": 5.0,
-    "last_seen": "2026-08-22T08:24:59.661113+00:00"
-  },
-  {
-    "ip": "194.163.174.78",
-    "port": 1086,
-    "protocol": "socks5",
-    "country": "FR",
-    "anonymity": "anonymous",
-    "latency_ms": 1309,
-    "speed_kbps": 7.6,
-    "score": 5.0,
-    "last_seen": "2026-08-22T08:24:59.926777+00:00"
-  },
-  {
-    "ip": "201.46.86.37",
-    "port": 8080,
-    "protocol": "http",
-    "country": "MX",
-    "anonymity": "anonymous",
-    "latency_ms": 1328,
-    "speed_kbps": null,
-    "score": 5.0,
-    "last_seen": "2026-08-22T08:24:59.655916+00:00"
-  },
-  {
-    "ip": "45.158.126.105",
-    "port": 8080,
-    "protocol": "http",
-    "country": "ID",
-    "anonymity": "anonymous",
-    "latency_ms": 1495,
-    "speed_kbps": null,
-    "score": 5.0,
-    "last_seen": "2026-08-22T08:24:59.903143+00:00"
-  },
-  {
-    "ip": "119.148.20.109",
-    "port": 22122,
-    "protocol": "socks5",
-    "country": "BD",
-    "anonymity": "anonymous",
-    "latency_ms": 1524,
-    "speed_kbps": null,
-    "score": 5.0,
-    "last_seen": "2026-08-22T08:24:59.661261+00:00"
-  },
-  {
-    "ip": "31.47.38.2",
-    "port": 80,
-    "protocol": "http",
-    "country": "IR",
-    "anonymity": "anonymous",
-    "latency_ms": 1553,
-    "speed_kbps": null,
-    "score": 5.0,
-    "last_seen": "2026-08-22T08:24:59.650402+00:00"
-  },
-  {
-    "ip": "43.164.136.189",
-    "port": 1080,
-    "protocol": "socks5",
-    "country": "KR",
-    "anonymity": "anonymous",
-    "latency_ms": 1668,
-    "speed_kbps": 6.0,
-    "score": 5.0,
-    "last_seen": "2026-08-22T08:24:59.628168+00:00"
-  },
-  {
-    "ip": "195.135.255.98",
-    "port": 1080,
-    "protocol": "socks5",
-    "country": "LV",
-    "anonymity": "anonymous",
-    "latency_ms": 1675,
-    "speed_kbps": null,
-    "score": 5.0,
-    "last_seen": "2026-08-22T08:24:59.630491+00:00"
-  },
-  {
-    "ip": "190.94.212.198",
-    "port": 999,
-    "protocol": "http",
-    "country": "VE",
-    "anonymity": "elite",
-    "latency_ms": 1678,
-    "speed_kbps": null,
-    "score": 5.0,
-    "last_seen": "2026-08-22T08:24:59.653995+00:00"
-  },
-  {
-    "ip": "116.62.81.204",
-    "port": 1081,
-    "protocol": "http",
-    "country": "CN",
-    "anonymity": "anonymous",
-    "latency_ms": 1730,
-    "speed_kbps": null,
-    "score": 5.0,
-    "last_seen": "2026-08-22T08:24:59.650508+00:00"
-  },
-  {
-    "ip": "187.86.153.254",
-    "port": 30660,
-    "protocol": "socks4",
-    "country": "BR",
-    "anonymity": "anonymous",
-    "latency_ms": 1744,
-    "speed_kbps": null,
-    "score": 5.0,
-    "last_seen": "2026-08-22T08:24:59.644407+00:00"
-  },
-  {
-    "ip": "190.13.147.241",
-    "port": 5678,
-    "protocol": "socks4",
-    "country": "CL",
-    "anonymity": "anonymous",
-    "latency_ms": 1777,
-    "speed_kbps": null,
-    "score": 5.0,
-    "last_seen": "2026-08-22T08:24:59.907149+00:00"
-  },
-  {
-    "ip": "131.222.248.195",
-    "port": 5678,
-    "protocol": "socks4",
-    "country": "TR",
-    "anonymity": "anonymous",
-    "latency_ms": 1824,
-    "speed_kbps": null,
-    "score": 5.0,
-    "last_seen": "2026-08-22T08:24:59.644644+00:00"
-  },
-  {
-    "ip": "95.40.233.164",
-    "port": 3128,
-    "protocol": "http",
-    "country": "HK",
-    "anonymity": "elite",
-    "latency_ms": 1869,
-    "speed_kbps": null,
-    "score": 5.0,
-    "last_seen": "2026-08-22T08:24:59.652169+00:00"
-  },
-  {
-    "ip": "31.76.80.215",
-    "port": 1080,
-    "protocol": "socks5",
-    "country": "FI",
-    "anonymity": "anonymous",
-    "latency_ms": 1928,
-    "speed_kbps": null,
-    "score": 5.0,
-    "last_seen": "2026-08-22T08:24:59.661078+00:00"
-  },
-  {
-    "ip": "185.175.229.58",
-    "port": 1080,
-    "protocol": "socks5",
-    "country": "KH",
-    "anonymity": "anonymous",
-    "latency_ms": 1938,
-    "speed_kbps": 5.2,
-    "score": 5.0,
-    "last_seen": "2026-08-22T08:24:59.628575+00:00"
-  },
-  {
-    "ip": "103.133.26.73",
-    "port": 3128,
-    "protocol": "http",
-    "country": "ID",
-    "anonymity": "anonymous",
-    "latency_ms": 2049,
-    "speed_kbps": null,
-    "score": 5.0,
-    "last_seen": "2026-08-22T08:24:59.649063+00:00"
-  },
-  {
-    "ip": "66.151.32.105",
-    "port": 1080,
-    "protocol": "socks4",
-    "country": "NL",
-    "anonymity": "anonymous",
-    "latency_ms": 2144,
-    "speed_kbps": null,
-    "score": 5.0,
-    "last_seen": "2026-08-22T08:24:59.641318+00:00"
-  },
-  {
-    "ip": "2.56.178.88",
-    "port": 808,
-    "protocol": "http",
-    "country": "RU",
-    "anonymity": "anonymous",
-    "latency_ms": 2158,
-    "speed_kbps": null,
-    "score": 5.0,
-    "last_seen": "2026-08-22T08:24:59.654092+00:00"
-  },
-  {
-    "ip": "140.245.238.56",
-    "port": 53,
-    "protocol": "http",
-    "country": "IN",
-    "anonymity": "anonymous",
-    "latency_ms": 2216,
-    "speed_kbps": null,
-    "score": 5.0,
-    "last_seen": "2026-08-22T08:24:59.652940+00:00"
-  },
-  {
-    "ip": "150.107.104.22",
-    "port": 80,
-    "protocol": "http",
-    "country": "ID",
-    "anonymity": "anonymous",
-    "latency_ms": 2294,
-    "speed_kbps": null,
-    "score": 5.0,
-    "last_seen": "2026-08-22T08:24:59.658868+00:00"
-  },
-  {
-    "ip": "103.216.50.210",
-    "port": 1080,
-    "protocol": "socks4",
-    "country": "KH",
-    "anonymity": "anonymous",
-    "latency_ms": 2370,
-    "speed_kbps": null,
-    "score": 5.0,
-    "last_seen": "2026-08-22T08:24:59.661662+00:00"
+    "score": 10.0,
+    "last_seen": "2026-08-22T10:19:18.887201+00:00"
   },
   {
     "ip": "103.102.141.40",
@@ -2964,21 +2128,32 @@
     "protocol": "socks4",
     "country": "ID",
     "anonymity": "anonymous",
-    "latency_ms": 2420,
+    "latency_ms": 1250,
     "speed_kbps": null,
-    "score": 5.0,
-    "last_seen": "2026-08-22T08:24:59.641735+00:00"
+    "score": 10.0,
+    "last_seen": "2026-08-22T10:19:18.966243+00:00"
   },
   {
-    "ip": "59.36.210.211",
-    "port": 13552,
-    "protocol": "http",
-    "country": "CN",
+    "ip": "43.164.136.189",
+    "port": 1080,
+    "protocol": "socks5",
+    "country": "KR",
     "anonymity": "anonymous",
-    "latency_ms": 2557,
+    "latency_ms": 1302,
     "speed_kbps": null,
-    "score": 5.0,
-    "last_seen": "2026-08-22T08:24:59.655903+00:00"
+    "score": 10.0,
+    "last_seen": "2026-08-22T10:19:18.993435+00:00"
+  },
+  {
+    "ip": "161.35.90.93",
+    "port": 1083,
+    "protocol": "socks5",
+    "country": "NL",
+    "anonymity": "elite",
+    "latency_ms": 1636,
+    "speed_kbps": null,
+    "score": 10.0,
+    "last_seen": "2026-08-22T10:19:19.002801+00:00"
   },
   {
     "ip": "185.170.10.176",
@@ -2986,97 +2161,1175 @@
     "protocol": "http",
     "country": "RU",
     "anonymity": "anonymous",
-    "latency_ms": 2605,
+    "latency_ms": 1638,
     "speed_kbps": null,
-    "score": 5.0,
-    "last_seen": "2026-08-22T08:24:59.651461+00:00"
+    "score": 10.0,
+    "last_seen": "2026-08-22T10:19:18.961869+00:00"
   },
   {
-    "ip": "78.101.189.212",
-    "port": 8080,
-    "protocol": "http",
-    "country": "QA",
-    "anonymity": "anonymous",
-    "latency_ms": 2673,
-    "speed_kbps": null,
-    "score": 5.0,
-    "last_seen": "2026-08-22T08:24:59.903083+00:00"
-  },
-  {
-    "ip": "175.136.239.173",
-    "port": 8181,
-    "protocol": "http",
-    "country": "MY",
-    "anonymity": "anonymous",
-    "latency_ms": 2815,
-    "speed_kbps": null,
-    "score": 5.0,
-    "last_seen": "2026-08-22T08:24:59.638087+00:00"
-  },
-  {
-    "ip": "1.10.226.245",
-    "port": 8080,
-    "protocol": "http",
-    "country": "TH",
-    "anonymity": "anonymous",
-    "latency_ms": 2917,
-    "speed_kbps": null,
-    "score": 5.0,
-    "last_seen": "2026-08-22T08:24:59.652145+00:00"
-  },
-  {
-    "ip": "216.106.179.216",
-    "port": 49162,
-    "protocol": "socks5",
-    "country": "US",
-    "anonymity": "anonymous",
-    "latency_ms": 4455,
-    "speed_kbps": 0.0,
-    "score": 5.0,
-    "last_seen": "2026-08-22T08:24:59.635018+00:00"
-  },
-  {
-    "ip": "79.137.196.250",
+    "ip": "103.216.50.210",
     "port": 1080,
     "protocol": "socks4",
-    "country": "NL",
-    "anonymity": "anonymous",
-    "latency_ms": 4630,
-    "speed_kbps": 2.2,
-    "score": 5.0,
-    "last_seen": "2026-08-22T08:24:59.661492+00:00"
+    "country": "KH",
+    "anonymity": "elite",
+    "latency_ms": 2457,
+    "speed_kbps": null,
+    "score": 10.0,
+    "last_seen": "2026-08-22T10:19:18.967150+00:00"
   },
   {
-    "ip": "186.33.42.171",
+    "ip": "150.107.104.22",
+    "port": 80,
+    "protocol": "http",
+    "country": "ID",
+    "anonymity": "anonymous",
+    "latency_ms": 4404,
+    "speed_kbps": 2.3,
+    "score": 10.0,
+    "last_seen": "2026-08-22T10:19:18.976198+00:00"
+  },
+  {
+    "ip": "31.220.163.133",
+    "port": 1080,
+    "protocol": "socks5",
+    "country": "RU",
+    "anonymity": "anonymous",
+    "latency_ms": 1617,
+    "speed_kbps": null,
+    "score": 9.9,
+    "last_seen": "2026-08-22T10:19:18.997761+00:00"
+  },
+  {
+    "ip": "31.211.142.115",
+    "port": 8192,
+    "protocol": "socks5",
+    "country": "BG",
+    "anonymity": "anonymous",
+    "latency_ms": 1899,
+    "speed_kbps": 0.1,
+    "score": 9.9,
+    "last_seen": "2026-08-22T10:19:19.001085+00:00"
+  },
+  {
+    "ip": "45.144.54.40",
+    "port": 1080,
+    "protocol": "socks5",
+    "country": "DE",
+    "anonymity": "anonymous",
+    "latency_ms": 7072,
+    "speed_kbps": 1.4,
+    "score": 9.8,
+    "last_seen": "2026-08-22T10:19:18.998856+00:00"
+  },
+  {
+    "ip": "177.234.217.46",
     "port": 999,
     "protocol": "http",
     "country": "EC",
     "anonymity": "anonymous",
-    "latency_ms": 4673,
-    "speed_kbps": 2.1,
-    "score": 5.0,
-    "last_seen": "2026-08-22T08:24:59.649828+00:00"
+    "latency_ms": 2991,
+    "speed_kbps": null,
+    "score": 9.7,
+    "last_seen": "2026-08-22T10:19:18.959817+00:00"
   },
   {
-    "ip": "49.0.0.175",
+    "ip": "132.243.120.54",
+    "port": 10808,
+    "protocol": "socks4",
+    "country": "NL",
+    "anonymity": "anonymous",
+    "latency_ms": 2091,
+    "speed_kbps": null,
+    "score": 9.6,
+    "last_seen": "2026-08-22T10:19:18.972629+00:00"
+  },
+  {
+    "ip": "47.77.186.212",
+    "port": 3128,
+    "protocol": "http",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 151,
+    "speed_kbps": null,
+    "score": 9.5,
+    "last_seen": "2026-08-22T10:19:18.956631+00:00"
+  },
+  {
+    "ip": "64.90.12.223",
+    "port": 3128,
+    "protocol": "http",
+    "country": "HK",
+    "anonymity": "anonymous",
+    "latency_ms": 2524,
+    "speed_kbps": null,
+    "score": 9.4,
+    "last_seen": "2026-08-22T10:19:18.955616+00:00"
+  },
+  {
+    "ip": "45.232.0.2",
+    "port": 8080,
+    "protocol": "http",
+    "country": "AR",
+    "anonymity": "anonymous",
+    "latency_ms": 751,
+    "speed_kbps": null,
+    "score": 9.1,
+    "last_seen": "2026-08-22T10:19:18.954928+00:00"
+  },
+  {
+    "ip": "159.203.61.169",
+    "port": 3128,
+    "protocol": "http",
+    "country": "CA",
+    "anonymity": "elite",
+    "latency_ms": 1900,
+    "speed_kbps": null,
+    "score": 9.1,
+    "last_seen": "2026-08-22T10:19:18.957842+00:00"
+  },
+  {
+    "ip": "179.189.248.109",
+    "port": 5432,
+    "protocol": "socks4",
+    "country": "BR",
+    "anonymity": "anonymous",
+    "latency_ms": 867,
+    "speed_kbps": null,
+    "score": 9.0,
+    "last_seen": "2026-08-22T10:19:18.887986+00:00"
+  },
+  {
+    "ip": "170.239.220.6",
+    "port": 8080,
+    "protocol": "http",
+    "country": "BR",
+    "anonymity": "anonymous",
+    "latency_ms": 2045,
+    "speed_kbps": null,
+    "score": 9.0,
+    "last_seen": "2026-08-22T10:19:18.958926+00:00"
+  },
+  {
+    "ip": "152.228.237.108",
+    "port": 1080,
+    "protocol": "socks4",
+    "country": "FR",
+    "anonymity": "anonymous",
+    "latency_ms": 4376,
+    "speed_kbps": 2.3,
+    "score": 8.8,
+    "last_seen": "2026-08-22T10:19:18.972066+00:00"
+  },
+  {
+    "ip": "152.89.104.11",
     "port": 1080,
     "protocol": "socks5",
-    "country": "ID",
+    "country": "DE",
     "anonymity": "anonymous",
-    "latency_ms": 5141,
-    "speed_kbps": 1.9,
-    "score": 5.0,
-    "last_seen": "2026-08-22T08:24:59.632074+00:00"
+    "latency_ms": 2905,
+    "speed_kbps": 3.4,
+    "score": 8.4,
+    "last_seen": "2026-08-22T10:19:18.994730+00:00"
   },
   {
-    "ip": "107.191.44.214",
-    "port": 1081,
+    "ip": "147.45.60.250",
+    "port": 1082,
+    "protocol": "socks4",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 210,
+    "speed_kbps": null,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.888196+00:00"
+  },
+  {
+    "ip": "104.200.152.30",
+    "port": 4145,
+    "protocol": "socks4",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 323,
+    "speed_kbps": null,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.966377+00:00"
+  },
+  {
+    "ip": "68.71.247.130",
+    "port": 4145,
+    "protocol": "socks4",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 349,
+    "speed_kbps": null,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.969152+00:00"
+  },
+  {
+    "ip": "72.37.217.3",
+    "port": 4145,
+    "protocol": "socks4",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 355,
+    "speed_kbps": null,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.966547+00:00"
+  },
+  {
+    "ip": "198.8.94.170",
+    "port": 4145,
+    "protocol": "socks4",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 423,
+    "speed_kbps": null,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.970050+00:00"
+  },
+  {
+    "ip": "192.111.138.29",
+    "port": 4145,
+    "protocol": "socks4",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 426,
+    "speed_kbps": null,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.970212+00:00"
+  },
+  {
+    "ip": "85.8.47.209",
+    "port": 7080,
+    "protocol": "http",
+    "country": "SE",
+    "anonymity": "anonymous",
+    "latency_ms": 480,
+    "speed_kbps": 0.3,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.975027+00:00"
+  },
+  {
+    "ip": "85.8.47.208",
+    "port": 7080,
+    "protocol": "http",
+    "country": "SE",
+    "anonymity": "anonymous",
+    "latency_ms": 480,
+    "speed_kbps": 0.3,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.975046+00:00"
+  },
+  {
+    "ip": "85.8.47.207",
+    "port": 7080,
+    "protocol": "http",
+    "country": "SE",
+    "anonymity": "anonymous",
+    "latency_ms": 481,
+    "speed_kbps": 0.3,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.975023+00:00"
+  },
+  {
+    "ip": "85.8.47.210",
+    "port": 7080,
+    "protocol": "http",
+    "country": "SE",
+    "anonymity": "anonymous",
+    "latency_ms": 482,
+    "speed_kbps": 0.3,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.975035+00:00"
+  },
+  {
+    "ip": "85.8.47.212",
+    "port": 7080,
+    "protocol": "http",
+    "country": "SE",
+    "anonymity": "anonymous",
+    "latency_ms": 483,
+    "speed_kbps": 0.3,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.975031+00:00"
+  },
+  {
+    "ip": "85.8.47.198",
+    "port": 7080,
+    "protocol": "http",
+    "country": "SE",
+    "anonymity": "anonymous",
+    "latency_ms": 485,
+    "speed_kbps": 0.3,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.975014+00:00"
+  },
+  {
+    "ip": "85.8.47.211",
+    "port": 7080,
+    "protocol": "http",
+    "country": "SE",
+    "anonymity": "anonymous",
+    "latency_ms": 485,
+    "speed_kbps": 0.3,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.975039+00:00"
+  },
+  {
+    "ip": "192.252.216.86",
+    "port": 4145,
     "protocol": "socks5",
     "country": "US",
     "anonymity": "anonymous",
-    "latency_ms": 6886,
-    "speed_kbps": 1.5,
+    "latency_ms": 531,
+    "speed_kbps": null,
     "score": 5.0,
-    "last_seen": "2026-08-22T08:24:59.632862+00:00"
+    "last_seen": "2026-08-22T10:19:19.002208+00:00"
+  },
+  {
+    "ip": "151.243.153.157",
+    "port": 8118,
+    "protocol": "http",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 620,
+    "speed_kbps": null,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.961819+00:00"
+  },
+  {
+    "ip": "151.241.217.102",
+    "port": 1080,
+    "protocol": "socks5",
+    "country": "CH",
+    "anonymity": "anonymous",
+    "latency_ms": 728,
+    "speed_kbps": 13.7,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.995871+00:00"
+  },
+  {
+    "ip": "199.102.107.145",
+    "port": 4145,
+    "protocol": "socks4",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 755,
+    "speed_kbps": 13.2,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.967232+00:00"
+  },
+  {
+    "ip": "107.181.161.81",
+    "port": 4145,
+    "protocol": "socks4",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 760,
+    "speed_kbps": 13.2,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.969364+00:00"
+  },
+  {
+    "ip": "107.181.168.145",
+    "port": 4145,
+    "protocol": "socks4",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 762,
+    "speed_kbps": 13.1,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.965806+00:00"
+  },
+  {
+    "ip": "162.253.68.97",
+    "port": 4145,
+    "protocol": "socks4",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 769,
+    "speed_kbps": 13.0,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.966187+00:00"
+  },
+  {
+    "ip": "198.8.84.3",
+    "port": 4145,
+    "protocol": "socks4",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 773,
+    "speed_kbps": 12.9,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.968257+00:00"
+  },
+  {
+    "ip": "199.116.114.11",
+    "port": 4145,
+    "protocol": "socks4",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 781,
+    "speed_kbps": 12.8,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.967457+00:00"
+  },
+  {
+    "ip": "94.253.95.241",
+    "port": 3629,
+    "protocol": "socks4",
+    "country": "RU",
+    "anonymity": "anonymous",
+    "latency_ms": 802,
+    "speed_kbps": null,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.972047+00:00"
+  },
+  {
+    "ip": "131.222.252.108",
+    "port": 8080,
+    "protocol": "http",
+    "country": "TR",
+    "anonymity": "anonymous",
+    "latency_ms": 847,
+    "speed_kbps": null,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.975895+00:00"
+  },
+  {
+    "ip": "8.215.25.3",
+    "port": 2080,
+    "protocol": "http",
+    "country": "ID",
+    "anonymity": "anonymous",
+    "latency_ms": 851,
+    "speed_kbps": null,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.958422+00:00"
+  },
+  {
+    "ip": "144.124.227.88",
+    "port": 3128,
+    "protocol": "http",
+    "country": "NL",
+    "anonymity": "anonymous",
+    "latency_ms": 854,
+    "speed_kbps": null,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.954209+00:00"
+  },
+  {
+    "ip": "77.110.103.146",
+    "port": 1080,
+    "protocol": "socks5",
+    "country": "NL",
+    "anonymity": "anonymous",
+    "latency_ms": 880,
+    "speed_kbps": 11.4,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.998609+00:00"
+  },
+  {
+    "ip": "121.169.46.116",
+    "port": 1090,
+    "protocol": "socks5",
+    "country": "KR",
+    "anonymity": "anonymous",
+    "latency_ms": 894,
+    "speed_kbps": null,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:19.001132+00:00"
+  },
+  {
+    "ip": "163.61.112.250",
+    "port": 8080,
+    "protocol": "http",
+    "country": "ID",
+    "anonymity": "anonymous",
+    "latency_ms": 899,
+    "speed_kbps": null,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.962535+00:00"
+  },
+  {
+    "ip": "198.8.94.174",
+    "port": 39078,
+    "protocol": "socks4",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 906,
+    "speed_kbps": 11.0,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.969826+00:00"
+  },
+  {
+    "ip": "192.111.130.5",
+    "port": 17002,
+    "protocol": "socks4",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 913,
+    "speed_kbps": 10.9,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.970253+00:00"
+  },
+  {
+    "ip": "57.128.249.250",
+    "port": 9052,
+    "protocol": "socks5",
+    "country": "PL",
+    "anonymity": "anonymous",
+    "latency_ms": 961,
+    "speed_kbps": 10.4,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.996479+00:00"
+  },
+  {
+    "ip": "49.207.177.65",
+    "port": 5678,
+    "protocol": "socks4",
+    "country": "IN",
+    "anonymity": "anonymous",
+    "latency_ms": 1027,
+    "speed_kbps": null,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.888220+00:00"
+  },
+  {
+    "ip": "95.78.118.172",
+    "port": 1080,
+    "protocol": "socks5",
+    "country": "RU",
+    "anonymity": "anonymous",
+    "latency_ms": 1086,
+    "speed_kbps": null,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.887190+00:00"
+  },
+  {
+    "ip": "50.238.47.86",
+    "port": 32100,
+    "protocol": "socks4",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 1225,
+    "speed_kbps": null,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.965267+00:00"
+  },
+  {
+    "ip": "178.130.47.21",
+    "port": 1082,
+    "protocol": "socks4",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 1241,
+    "speed_kbps": null,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.888286+00:00"
+  },
+  {
+    "ip": "179.189.248.129",
+    "port": 5432,
+    "protocol": "socks4",
+    "country": "BR",
+    "anonymity": "elite",
+    "latency_ms": 1280,
+    "speed_kbps": 7.8,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.888073+00:00"
+  },
+  {
+    "ip": "110.235.247.206",
+    "port": 1080,
+    "protocol": "socks5",
+    "country": "KH",
+    "anonymity": "anonymous",
+    "latency_ms": 1292,
+    "speed_kbps": null,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:19.000345+00:00"
+  },
+  {
+    "ip": "147.45.60.136",
+    "port": 1082,
+    "protocol": "socks5",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 1299,
+    "speed_kbps": null,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:19.001207+00:00"
+  },
+  {
+    "ip": "129.205.244.158",
+    "port": 1080,
+    "protocol": "socks4",
+    "country": "BW",
+    "anonymity": "anonymous",
+    "latency_ms": 1321,
+    "speed_kbps": null,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.967830+00:00"
+  },
+  {
+    "ip": "47.250.115.134",
+    "port": 1080,
+    "protocol": "socks5",
+    "country": "MY",
+    "anonymity": "anonymous",
+    "latency_ms": 1340,
+    "speed_kbps": null,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:19.001655+00:00"
+  },
+  {
+    "ip": "165.154.7.156",
+    "port": 8888,
+    "protocol": "http",
+    "country": "HK",
+    "anonymity": "anonymous",
+    "latency_ms": 1377,
+    "speed_kbps": 7.3,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:19.200825+00:00"
+  },
+  {
+    "ip": "43.135.164.115",
+    "port": 9050,
+    "protocol": "socks4",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 1516,
+    "speed_kbps": null,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.969311+00:00"
+  },
+  {
+    "ip": "37.195.116.105",
+    "port": 1080,
+    "protocol": "socks4",
+    "country": "RU",
+    "anonymity": "anonymous",
+    "latency_ms": 1558,
+    "speed_kbps": null,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.969944+00:00"
+  },
+  {
+    "ip": "35.78.212.217",
+    "port": 32053,
+    "protocol": "http",
+    "country": "JP",
+    "anonymity": "anonymous",
+    "latency_ms": 1603,
+    "speed_kbps": null,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.954673+00:00"
+  },
+  {
+    "ip": "223.75.121.218",
+    "port": 12120,
+    "protocol": "socks4",
+    "country": "CN",
+    "anonymity": "anonymous",
+    "latency_ms": 1610,
+    "speed_kbps": null,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.967846+00:00"
+  },
+  {
+    "ip": "176.114.199.202",
+    "port": 1080,
+    "protocol": "socks5",
+    "country": "RU",
+    "anonymity": "anonymous",
+    "latency_ms": 1622,
+    "speed_kbps": null,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.998757+00:00"
+  },
+  {
+    "ip": "112.216.54.226",
+    "port": 12121,
+    "protocol": "http",
+    "country": "KR",
+    "anonymity": "anonymous",
+    "latency_ms": 1645,
+    "speed_kbps": 6.1,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.956361+00:00"
+  },
+  {
+    "ip": "160.22.17.4",
+    "port": 9988,
+    "protocol": "socks5",
+    "country": "VN",
+    "anonymity": "anonymous",
+    "latency_ms": 1711,
+    "speed_kbps": 5.8,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.993383+00:00"
+  },
+  {
+    "ip": "200.59.191.27",
+    "port": 999,
+    "protocol": "http",
+    "country": "VE",
+    "anonymity": "anonymous",
+    "latency_ms": 1933,
+    "speed_kbps": 5.2,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.960497+00:00"
+  },
+  {
+    "ip": "190.0.246.211",
+    "port": 4040,
+    "protocol": "http",
+    "country": "CO",
+    "anonymity": "elite",
+    "latency_ms": 1938,
+    "speed_kbps": null,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.975549+00:00"
+  },
+  {
+    "ip": "112.28.149.152",
+    "port": 8443,
+    "protocol": "socks5",
+    "country": "CN",
+    "anonymity": "anonymous",
+    "latency_ms": 1963,
+    "speed_kbps": null,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.996982+00:00"
+  },
+  {
+    "ip": "223.85.21.195",
+    "port": 8080,
+    "protocol": "http",
+    "country": "CN",
+    "anonymity": "anonymous",
+    "latency_ms": 2017,
+    "speed_kbps": 5.0,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.955811+00:00"
+  },
+  {
+    "ip": "37.18.73.60",
+    "port": 5566,
+    "protocol": "socks5",
+    "country": "RU",
+    "anonymity": "anonymous",
+    "latency_ms": 2143,
+    "speed_kbps": 4.7,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:19.000541+00:00"
+  },
+  {
+    "ip": "186.33.45.218",
+    "port": 999,
+    "protocol": "http",
+    "country": "EC",
+    "anonymity": "anonymous",
+    "latency_ms": 2161,
+    "speed_kbps": null,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.960757+00:00"
+  },
+  {
+    "ip": "147.45.60.246",
+    "port": 1082,
+    "protocol": "socks5",
+    "country": "US",
+    "anonymity": "elite",
+    "latency_ms": 2175,
+    "speed_kbps": null,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:19.001760+00:00"
+  },
+  {
+    "ip": "110.38.234.74",
+    "port": 1080,
+    "protocol": "socks4",
+    "country": "PK",
+    "anonymity": "anonymous",
+    "latency_ms": 2190,
+    "speed_kbps": null,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.888257+00:00"
+  },
+  {
+    "ip": "164.52.11.194",
+    "port": 18080,
+    "protocol": "http",
+    "country": "TW",
+    "anonymity": "anonymous",
+    "latency_ms": 2224,
+    "speed_kbps": null,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.958499+00:00"
+  },
+  {
+    "ip": "185.209.29.226",
+    "port": 1080,
+    "protocol": "socks5",
+    "country": "RU",
+    "anonymity": "elite",
+    "latency_ms": 2227,
+    "speed_kbps": null,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.887153+00:00"
+  },
+  {
+    "ip": "177.85.65.177",
+    "port": 4153,
+    "protocol": "socks4",
+    "country": "BR",
+    "anonymity": "elite",
+    "latency_ms": 2265,
+    "speed_kbps": 4.4,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.966866+00:00"
+  },
+  {
+    "ip": "159.223.52.199",
+    "port": 3128,
+    "protocol": "http",
+    "country": "SG",
+    "anonymity": "anonymous",
+    "latency_ms": 2325,
+    "speed_kbps": null,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.954139+00:00"
+  },
+  {
+    "ip": "123.253.124.28",
+    "port": 5678,
+    "protocol": "socks4",
+    "country": "IN",
+    "anonymity": "elite",
+    "latency_ms": 2396,
+    "speed_kbps": null,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.971336+00:00"
+  },
+  {
+    "ip": "65.21.252.66",
+    "port": 10811,
+    "protocol": "socks5",
+    "country": "FI",
+    "anonymity": "anonymous",
+    "latency_ms": 2438,
+    "speed_kbps": 4.1,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:19.002640+00:00"
+  },
+  {
+    "ip": "212.103.118.77",
+    "port": 5678,
+    "protocol": "socks4",
+    "country": "RU",
+    "anonymity": "elite",
+    "latency_ms": 2521,
+    "speed_kbps": null,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.887861+00:00"
+  },
+  {
+    "ip": "85.234.100.149",
+    "port": 8080,
+    "protocol": "http",
+    "country": "DE",
+    "anonymity": "elite",
+    "latency_ms": 2540,
+    "speed_kbps": 3.9,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.975398+00:00"
+  },
+  {
+    "ip": "5.255.103.55",
+    "port": 1080,
+    "protocol": "socks5",
+    "country": "NL",
+    "anonymity": "anonymous",
+    "latency_ms": 2564,
+    "speed_kbps": null,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.995458+00:00"
+  },
+  {
+    "ip": "87.107.68.231",
+    "port": 1081,
+    "protocol": "socks5",
+    "country": "IR",
+    "anonymity": "anonymous",
+    "latency_ms": 2645,
+    "speed_kbps": null,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.995670+00:00"
+  },
+  {
+    "ip": "131.161.68.41",
+    "port": 35944,
+    "protocol": "socks4",
+    "country": "BR",
+    "anonymity": "anonymous",
+    "latency_ms": 2742,
+    "speed_kbps": null,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.973008+00:00"
+  },
+  {
+    "ip": "85.175.219.236",
+    "port": 1080,
+    "protocol": "socks5",
+    "country": "RU",
+    "anonymity": "anonymous",
+    "latency_ms": 2765,
+    "speed_kbps": null,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.887208+00:00"
+  },
+  {
+    "ip": "124.83.108.167",
+    "port": 8081,
+    "protocol": "http",
+    "country": "PH",
+    "anonymity": "anonymous",
+    "latency_ms": 2851,
+    "speed_kbps": null,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.963626+00:00"
+  },
+  {
+    "ip": "103.251.8.255",
+    "port": 8282,
+    "protocol": "http",
+    "country": "ID",
+    "anonymity": "anonymous",
+    "latency_ms": 2852,
+    "speed_kbps": null,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.961459+00:00"
+  },
+  {
+    "ip": "46.55.3.113",
+    "port": 4145,
+    "protocol": "socks4",
+    "country": "MD",
+    "anonymity": "anonymous",
+    "latency_ms": 2857,
+    "speed_kbps": null,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.969347+00:00"
+  },
+  {
+    "ip": "190.94.213.132",
+    "port": 999,
+    "protocol": "http",
+    "country": "VE",
+    "anonymity": "elite",
+    "latency_ms": 2868,
+    "speed_kbps": null,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.962697+00:00"
+  },
+  {
+    "ip": "92.86.92.126",
+    "port": 42740,
+    "protocol": "socks4",
+    "country": "RO",
+    "anonymity": "anonymous",
+    "latency_ms": 2873,
+    "speed_kbps": null,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.965964+00:00"
+  },
+  {
+    "ip": "179.189.249.249",
+    "port": 5432,
+    "protocol": "socks4",
+    "country": "BR",
+    "anonymity": "anonymous",
+    "latency_ms": 2905,
+    "speed_kbps": null,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.888066+00:00"
+  },
+  {
+    "ip": "200.201.134.184",
+    "port": 8787,
+    "protocol": "http",
+    "country": "BR",
+    "anonymity": "anonymous",
+    "latency_ms": 2956,
+    "speed_kbps": null,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.954938+00:00"
+  },
+  {
+    "ip": "190.89.104.88",
+    "port": 5432,
+    "protocol": "socks4",
+    "country": "BR",
+    "anonymity": "elite",
+    "latency_ms": 3173,
+    "speed_kbps": 3.2,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:19.215588+00:00"
+  },
+  {
+    "ip": "179.189.248.125",
+    "port": 5432,
+    "protocol": "socks4",
+    "country": "BR",
+    "anonymity": "anonymous",
+    "latency_ms": 3339,
+    "speed_kbps": 3.0,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.967767+00:00"
+  },
+  {
+    "ip": "140.245.36.86",
+    "port": 1080,
+    "protocol": "socks5",
+    "country": "SG",
+    "anonymity": "anonymous",
+    "latency_ms": 3380,
+    "speed_kbps": 3.0,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.998242+00:00"
+  },
+  {
+    "ip": "24.249.199.4",
+    "port": 4145,
+    "protocol": "socks4",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 3849,
+    "speed_kbps": 2.6,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.974086+00:00"
+  },
+  {
+    "ip": "83.220.46.106",
+    "port": 4145,
+    "protocol": "socks4",
+    "country": "RU",
+    "anonymity": "anonymous",
+    "latency_ms": 3953,
+    "speed_kbps": 2.5,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.970486+00:00"
+  },
+  {
+    "ip": "185.100.157.20",
+    "port": 8000,
+    "protocol": "http",
+    "country": "SE",
+    "anonymity": "anonymous",
+    "latency_ms": 4072,
+    "speed_kbps": 2.5,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.961809+00:00"
+  },
+  {
+    "ip": "218.26.101.226",
+    "port": 53813,
+    "protocol": "socks4",
+    "country": "CN",
+    "anonymity": "anonymous",
+    "latency_ms": 4173,
+    "speed_kbps": 2.4,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.972133+00:00"
+  },
+  {
+    "ip": "103.166.48.195",
+    "port": 5060,
+    "protocol": "http",
+    "country": "ID",
+    "anonymity": "anonymous",
+    "latency_ms": 4553,
+    "speed_kbps": 2.2,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.962119+00:00"
+  },
+  {
+    "ip": "116.109.179.109",
+    "port": 1080,
+    "protocol": "socks4",
+    "country": "VN",
+    "anonymity": "anonymous",
+    "latency_ms": 5247,
+    "speed_kbps": 1.9,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.965393+00:00"
+  },
+  {
+    "ip": "165.154.20.187",
+    "port": 10808,
+    "protocol": "http",
+    "country": "HK",
+    "anonymity": "anonymous",
+    "latency_ms": 5352,
+    "speed_kbps": 1.9,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.961865+00:00"
+  },
+  {
+    "ip": "91.231.186.236",
+    "port": 8181,
+    "protocol": "http",
+    "country": "GB",
+    "anonymity": "anonymous",
+    "latency_ms": 6086,
+    "speed_kbps": 1.6,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.963125+00:00"
+  },
+  {
+    "ip": "144.124.227.88",
+    "port": 3129,
+    "protocol": "socks5",
+    "country": "NL",
+    "anonymity": "anonymous",
+    "latency_ms": 6871,
+    "speed_kbps": 0.0,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.994627+00:00"
+  },
+  {
+    "ip": "45.76.164.255",
+    "port": 1085,
+    "protocol": "socks5",
+    "country": "US",
+    "anonymity": "anonymous",
+    "latency_ms": 7034,
+    "speed_kbps": 1.4,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.996291+00:00"
+  },
+  {
+    "ip": "147.45.221.115",
+    "port": 1082,
+    "protocol": "socks5",
+    "country": "AL",
+    "anonymity": "anonymous",
+    "latency_ms": 7859,
+    "speed_kbps": 1.3,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.997438+00:00"
+  },
+  {
+    "ip": "103.154.119.45",
+    "port": 8080,
+    "protocol": "http",
+    "country": "ID",
+    "anonymity": "anonymous",
+    "latency_ms": 8129,
+    "speed_kbps": 1.2,
+    "score": 5.0,
+    "last_seen": "2026-08-22T10:19:18.962087+00:00"
   }
 ]
