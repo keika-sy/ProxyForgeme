@@ -101,7 +101,7 @@ Settings → Pages → Source: **Deploy from a branch** → Branch: `main`, fold
 ---
 
 <!-- PROXYFORGE:START -->
-**642** proxy aktif | HTTP: **323** | SOCKS4: **74** | SOCKS5: **245**
+**331** proxy aktif | HTTP: **138** | SOCKS4: **69** | SOCKS5: **124**
 
 | Kategori | Link Raw |
 |---|---|
@@ -113,7 +113,7 @@ Settings → Pages → Source: **Deploy from a branch** → Branch: `main`, fold
 | JSON | `results/all.json` |
 | CSV | `results/all.csv` |
 
-Top negara: NL (196), ID (61), US (43), TH (33), VN (30), RU (23), CN (22), CO (17), DE (14), IN (11)
+Top negara: NL (84), US (31), RU (26), CN (25), VN (21), ID (12), DE (11), HK (11), CM (11), JP (8)
 
 _Diupdate otomatis oleh GitHub Actions setiap 2 jam._
 <!-- PROXYFORGE:END -->
